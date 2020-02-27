@@ -1,0 +1,785 @@
+[
+    {
+        "en-gb": "Afghan"
+    },
+    {
+        "en-gb": "Ålandic"
+    },
+    {
+        "en-gb": "Albanian"
+    },
+    {
+        "en-gb": "Algerian"
+    },
+    {
+        "en-gb": "American Samoan"
+    },
+    {
+        "en-gb": "Andorran"
+    },
+    {
+        "en-gb": "Angolan"
+    },
+    {
+        "en-gb": "Anguillan"
+    },
+    {
+        "en-gb": "Antiguan"
+    },
+    {
+        "en-gb": "Barbudan"
+    },
+    {
+        "en-gb": "Argentinian"
+    },
+    {
+        "en-gb": "Armenian"
+    },
+    {
+        "en-gb": "Aruban"
+    },
+    {
+        "en-gb": "Australian"
+    },
+    {
+        "en-gb": "Austrian"
+    },
+    {
+        "en-gb": "Azerbaijani"
+    },
+    {
+        "en-gb": "Barbadian"
+    },
+    {
+        "en-gb": "Bahraini"
+    },
+    {
+        "en-gb": "Bangladeshi"
+    },
+    {
+        "en-gb": "Belarussian"
+    },
+    {
+        "en-gb": "Belgian"
+    },
+    {
+        "en-gb": "Belizean"
+    },
+    {
+        "en-gb": "Beninese"
+    },
+    {
+        "en-gb": "Bermudan"
+    },
+    {
+        "en-gb": "Bhutanese"
+    },
+    {
+        "en-gb": "Bolivian"
+    },
+    {
+        "en-gb": "Bonaire, Sint Eustasius and Saba"
+    },
+    {
+        "en-gb": "Bosnian"
+    },
+    {
+        "en-gb": "Batswana"
+    },
+    {
+        "en-gb": "Motswana"
+    },
+    {
+        "en-gb": "Brazilian"
+    },
+    {
+        "en-gb": "Chagos Islander"
+    },
+    {
+        "en-gb": "Virgin Islander"
+    },
+    {
+        "en-gb": "Bruneian"
+    },
+    {
+        "en-gb": "Bulgarian"
+    },
+    {
+        "en-gb": "Burkinese"
+    },
+    {
+        "en-gb": "Burundian"
+    },
+    {
+        "en-gb": "Cambodian"
+    },
+    {
+        "en-gb": "Camerooniain"
+    },
+    {
+        "en-gb": "Canadian"
+    },
+    {
+        "en-gb": "Canarian"
+    },
+    {
+        "en-gb": "Cape Verdean"
+    },
+    {
+        "en-gb": "Caymanian"
+    },
+    {
+        "en-gb": "Central African"
+    },
+    {
+        "en-gb": "Chadian"
+    },
+    {
+        "en-gb": "Channel Islander"
+    },
+    {
+        "en-gb": "Chilean"
+    },
+    {
+        "en-gb": "Chinese"
+    },
+    {
+        "en-gb": "Christmas Islander"
+    },
+    {
+        "en-gb": "Cocos Islander"
+    },
+    {
+        "en-gb": "Colombian"
+    },
+    {
+        "en-gb": "Comorian"
+    },
+    {
+        "en-gb": "Congolese (Republic of Congo)"
+    },
+    {
+        "en-gb": "Congolese (Democratic Republic of Congo)"
+    },
+    {
+        "en-gb": "Cook Islander"
+    },
+    {
+        "en-gb": "Costa Rican"
+    },
+    {
+        "en-gb": "Croatian"
+    },
+    {
+        "en-gb": "Cuban"
+    },
+    {
+        "en-gb": "Curaçaoan"
+    },
+    {
+        "en-gb": "Cypriot"
+    },
+    {
+        "en-gb": "Czech"
+    },
+    {
+        "en-gb": "Danish"
+    },
+    {
+        "en-gb": "Djiboutians"
+    },
+    {
+        "en-gb": "Dominican"
+    },
+    {
+        "en-gb": "Quisqueyan "
+    },
+    {
+        "en-gb": "East Timorese"
+    },
+    {
+        "en-gb": "Ecuadorian"
+    },
+    {
+        "en-gb": "Egyptian"
+    },
+    {
+        "en-gb": "Salvadoran"
+    },
+    {
+        "en-gb": "Equatorial Guinean"
+    },
+    {
+        "en-gb": "Equatoguinean"
+    },
+    {
+        "en-gb": "Eritrean"
+    },
+    {
+        "en-gb": "Estonian"
+    },
+    {
+        "en-gb": "Swazi"
+    },
+    {
+        "en-gb": "Ethiopian"
+    },
+    {
+        "en-gb": "Falkland Islander"
+    },
+    {
+        "en-gb": "Faroese"
+    },
+    {
+        "en-gb": "Fijian"
+    },
+    {
+        "en-gb": "Finnish"
+    },
+    {
+        "en-gb": "French"
+    },
+    {
+        "en-gb": "Guianan"
+    },
+    {
+        "en-gb": "French Polynesian"
+    },
+    {
+        "en-gb": "Gabonese"
+    },
+    {
+        "en-gb": "Georgian"
+    },
+    {
+        "en-gb": "German"
+    },
+    {
+        "en-gb": "Ghanaian"
+    },
+    {
+        "en-gb": "Gibraltarian"
+    },
+    {
+        "en-gb": "Greek"
+    },
+    {
+        "en-gb": "Greenlandic"
+    },
+    {
+        "en-gb": "Grenadian"
+    },
+    {
+        "en-gb": "Guadeloupean"
+    },
+    {
+        "en-gb": "Guamanian"
+    },
+    {
+        "en-gb": "Guatemalan"
+    },
+    {
+        "en-gb": "Guinean"
+    },
+    {
+        "en-gb": "Bissau-Guinean"
+    },
+    {
+        "en-gb": "Guyanese"
+    },
+    {
+        "en-gb": "Haitian"
+    },
+    {
+        "en-gb": "Honduran"
+    },
+    {
+        "en-gb": "Hong Kong Chinese"
+    },
+    {
+        "en-gb": "Hungarian"
+    },
+    {
+        "en-gb": "Icelandic"
+    },
+    {
+        "en-gb": "Indian"
+    },
+    {
+        "en-gb": "Indonesian"
+    },
+    {
+        "en-gb": "Iranian"
+    },
+    {
+        "en-gb": "Iraqi"
+    },
+    {
+        "en-gb": "Manx"
+    },
+    {
+        "en-gb": "Israeli"
+    },
+    {
+        "en-gb": "Italian"
+    },
+    {
+        "en-gb": "Ivorian"
+    },
+    {
+        "en-gb": "Jamaican"
+    },
+    {
+        "en-gb": "Japanese"
+    },
+    {
+        "en-gb": "Jordanian"
+    },
+    {
+        "en-gb": "Kazakhstani"
+    },
+    {
+        "en-gb": "Kenyan"
+    },
+    {
+        "en-gb": "I-Kiribati"
+    },
+    {
+        "en-gb": "Kosovan"
+    },
+    {
+        "en-gb": "Kuwaiti"
+    },
+    {
+        "en-gb": "Kyrgyz"
+    },
+    {
+        "en-gb": "Lao"
+    },
+    {
+        "en-gb": "Latvian"
+    },
+    {
+        "en-gb": "Lebanese"
+    },
+    {
+        "en-gb": "Lesothan"
+    },
+    {
+        "en-gb": "Liberian"
+    },
+    {
+        "en-gb": "Libyan"
+    },
+    {
+        "en-gb": "Liechtensteiner"
+    },
+    {
+        "en-gb": "Lithuanian"
+    },
+    {
+        "en-gb": "Luxembourger"
+    },
+    {
+        "en-gb": "Macau"
+    },
+    {
+        "en-gb": "Madagascan"
+    },
+    {
+        "en-gb": "Malawian"
+    },
+    {
+        "en-gb": "Malaysian"
+    },
+    {
+        "en-gb": "Maldivian"
+    },
+    {
+        "en-gb": "Malian"
+    },
+    {
+        "en-gb": "Maltese"
+    },
+    {
+        "en-gb": "Marshallese"
+    },
+    {
+        "en-gb": "Martiniquan"
+    },
+    {
+        "en-gb": "Mauritanian"
+    },
+    {
+        "en-gb": "Mauritian"
+    },
+    {
+        "en-gb": "Maorais"
+    },
+    {
+        "en-gb": "Mexican"
+    },
+    {
+        "en-gb": "Micronesian"
+    },
+    {
+        "en-gb": "Moldovan"
+    },
+    {
+        "en-gb": "Monacan"
+    },
+    {
+        "en-gb": "Mongolian"
+    },
+    {
+        "en-gb": "Montenegrin"
+    },
+    {
+        "en-gb": "Montserratian"
+    },
+    {
+        "en-gb": "Moroccan"
+    },
+    {
+        "en-gb": "Mozambican"
+    },
+    {
+        "en-gb": "Burmese or Myanma"
+    },
+    {
+        "en-gb": "Namibian"
+    },
+    {
+        "en-gb": "Nauruan"
+    },
+    {
+        "en-gb": "Nepalese"
+    },
+    {
+        "en-gb": "Dutch"
+    },
+    {
+        "en-gb": "New Caledonian"
+    },
+    {
+        "en-gb": "New Zealander"
+    },
+    {
+        "en-gb": "Nicaraguan"
+    },
+    {
+        "en-gb": "Nigerien (Niger)"
+    },
+    {
+        "en-gb": "Nigerian (Nigeria)"
+    },
+    {
+        "en-gb": "Niuean"
+    },
+    {
+        "en-gb": "Norfolk Islander"
+    },
+    {
+        "en-gb": "North Korean"
+    },
+    {
+        "en-gb": "Macedonian"
+    },
+    {
+        "en-gb": "Northern Mariana Islander "
+    },
+    {
+        "en-gb": "Norweigan"
+    },
+    {
+        "en-gb": "Palestinian"
+    },
+    {
+        "en-gb": "Omani"
+    },
+    {
+        "en-gb": "Pakistani"
+    },
+    {
+        "en-gb": "Palauan"
+    },
+    {
+        "en-gb": "Panamanian"
+    },
+    {
+        "en-gb": "Papua New Guinean"
+    },
+    {
+        "en-gb": "Paraguayan"
+    },
+    {
+        "en-gb": "Peruvian"
+    },
+    {
+        "en-gb": "Filipino"
+    },
+    {
+        "en-gb": "Filipina"
+    },
+    {
+        "en-gb": "Pitcairn Islander"
+    },
+    {
+        "en-gb": "Polish"
+    },
+    {
+        "en-gb": "Portuguese"
+    },
+    {
+        "en-gb": "Puerto Rican"
+    },
+    {
+        "en-gb": "Qatari"
+    },
+    {
+        "en-gb": "Réunionese"
+    },
+    {
+        "en-gb": "Romanian"
+    },
+    {
+        "en-gb": "Russian"
+    },
+    {
+        "en-gb": "Rwandan"
+    },
+    {
+        "en-gb": "Saint-Martinois"
+    },
+    {
+        "en-gb": "Samoan"
+    },
+    {
+        "en-gb": "Sammarinese"
+    },
+    {
+        "en-gb": "São Toméan"
+    },
+    {
+        "en-gb": "Saudi Arabian"
+    },
+    {
+        "en-gb": "Senegalese"
+    },
+    {
+        "en-gb": "Serbian"
+    },
+    {
+        "en-gb": "Seychellois"
+    },
+    {
+        "en-gb": "Sierra Leonean"
+    },
+    {
+        "en-gb": "Singaporean"
+    },
+    {
+        "en-gb": "St Maartener"
+    },
+    {
+        "en-gb": "Slovakian"
+    },
+    {
+        "en-gb": "Slovenian"
+    },
+    {
+        "en-gb": "Solomon Islander"
+    },
+    {
+        "en-gb": "Somali"
+    },
+    {
+        "en-gb": "South African"
+    },
+    {
+        "en-gb": "South Georgian"
+    },
+    {
+        "en-gb": "South Sandwich Islander"
+    },
+    {
+        "en-gb": "South Korean"
+    },
+    {
+        "en-gb": "Korean"
+    },
+    {
+        "en-gb": "South Sudanese"
+    },
+    {
+        "en-gb": "Spanish"
+    },
+    {
+        "en-gb": "Sri Lankan"
+    },
+    {
+        "en-gb": "Barthélemois"
+    },
+    {
+        "en-gb": "St Helenian"
+    },
+    {
+        "en-gb": "Kittitian"
+    },
+    {
+        "en-gb": "Nevisian"
+    },
+    {
+        "en-gb": "St Lucian"
+    },
+    {
+        "en-gb": "Saint-Pierrais"
+    },
+    {
+        "en-gb": "Miquelonnais"
+    },
+    {
+        "en-gb": "St Vincentian"
+    },
+    {
+        "en-gb": "Vincentian"
+    },
+    {
+        "en-gb": "Sudanese"
+    },
+    {
+        "en-gb": "Surinamese"
+    },
+    {
+        "en-gb": "Svalbard and Jan Mayen Islander"
+    },
+    {
+        "en-gb": "Swedish"
+    },
+    {
+        "en-gb": "Swiss"
+    },
+    {
+        "en-gb": "Syrian"
+    },
+    {
+        "en-gb": "Taiwanese"
+    },
+    {
+        "en-gb": "Tajik"
+    },
+    {
+        "en-gb": "Tanzanian"
+    },
+    {
+        "en-gb": "Thai"
+    },
+    {
+        "en-gb": "Bahamian"
+    },
+    {
+        "en-gb": "Gambian"
+    },
+    {
+        "en-gb": "Togolese"
+    },
+    {
+        "en-gb": "Tokelauan"
+    },
+    {
+        "en-gb": "Tongan"
+    },
+    {
+        "en-gb": "Trinidadian and Tobagonian"
+    },
+    {
+        "en-gb": "Tunisian"
+    },
+    {
+        "en-gb": "Turkish"
+    },
+    {
+        "en-gb": "Turkmenistani"
+    },
+    {
+        "en-gb": "Turks and Caicos Islander"
+    },
+    {
+        "en-gb": "Tuvaluan"
+    },
+    {
+        "en-gb": "Ugandan"
+    },
+    {
+        "en-gb": "Ukrainian"
+    },
+    {
+        "en-gb": "Emirati"
+    },
+    {
+        "en-gb": "American Islander"
+    },
+    {
+        "en-gb": "American"
+    },
+    {
+        "en-gb": "Virgin Islander"
+    },
+    {
+        "en-gb": "Uruguayan"
+    },
+    {
+        "en-gb": "Uzbek"
+    },
+    {
+        "en-gb": "Ni-Vanuatu"
+    },
+    {
+        "en-gb": "Venezuelan"
+    },
+    {
+        "en-gb": "Vietnamese"
+    },
+    {
+        "en-gb": "Wallisian"
+    },
+    {
+        "en-gb": "Futunan"
+    },
+    {
+        "en-gb": "Sahrawian"
+    },
+    {
+        "en-gb": "Yemeni"
+    },
+    {
+        "en-gb": "Zambian"
+    },
+    {
+        "en-gb": "Zimbabwean"
+    },
+    {
+        "en-gb": "Irish"
+    },
+    {
+        "en-gb": "Kurdish"
+    },
+    {
+        "en-gb": "Greek Cypriot"
+    },
+    {
+        "en-gb": "Turkish Cypriot"
+    },
+    {
+        "en-gb": "Cornish"
+    },
+    {
+        "en-gb": "Kernewek"
+    },
+    {
+        "en-gb": "Kernowek"
+    },
+    {
+        "en-gb": "Kernouak"
+    }
+]

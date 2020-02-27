@@ -1,0 +1,593 @@
+[
+    {
+        "en-gb": "Afghanistan"
+    },
+    {
+        "en-gb": "Albania"
+    },
+    {
+        "en-gb": "Algeria"
+    },
+    {
+        "en-gb": "Andorra"
+    },
+    {
+        "en-gb": "Angola"
+    },
+    {
+        "en-gb": "Antigua and Barbuda"
+    },
+    {
+        "en-gb": "Argentina"
+    },
+    {
+        "en-gb": "Armenia"
+    },
+    {
+        "en-gb": "Australia"
+    },
+    {
+        "en-gb": "Austria"
+    },
+    {
+        "en-gb": "Azerbaijan"
+    },
+    {
+        "en-gb": "Bahrain"
+    },
+    {
+        "en-gb": "Bangladesh"
+    },
+    {
+        "en-gb": "Barbados"
+    },
+    {
+        "en-gb": "Belarus"
+    },
+    {
+        "en-gb": "Belgium"
+    },
+    {
+        "en-gb": "Belize"
+    },
+    {
+        "en-gb": "Benin"
+    },
+    {
+        "en-gb": "Bhutan"
+    },
+    {
+        "en-gb": "Bolivia"
+    },
+    {
+        "en-gb": "Bosnia and Herzegovina"
+    },
+    {
+        "en-gb": "Botswana"
+    },
+    {
+        "en-gb": "Brazil"
+    },
+    {
+        "en-gb": "Brunei"
+    },
+    {
+        "en-gb": "Bulgaria"
+    },
+    {
+        "en-gb": "Burkina Faso"
+    },
+    {
+        "en-gb": "Burundi"
+    },
+    {
+        "en-gb": "Cambodia"
+    },
+    {
+        "en-gb": "Cameroon"
+    },
+    {
+        "en-gb": "Canada"
+    },
+    {
+        "en-gb": "Cape Verde "
+    },
+    {
+        "en-gb": "Chad"
+    },
+    {
+        "en-gb": "Chile"
+    },
+    {
+        "en-gb": "China"
+    },
+    {
+        "en-gb": "Colombia"
+    },
+    {
+        "en-gb": "Comoros"
+    },
+    {
+        "en-gb": "Congo"
+    },
+    {
+        "en-gb": "Congo (Democratic Republic)"
+    },
+    {
+        "en-gb": "Costa Rica"
+    },
+    {
+        "en-gb": "Croatia "
+    },
+    {
+        "en-gb": "Cuba"
+    },
+    {
+        "en-gb": "Cyprus"
+    },
+    {
+        "en-gb": "Czech Republic or Czechia"
+    },
+    {
+        "en-gb": "Denmark "
+    },
+    {
+        "en-gb": "Djibouti"
+    },
+    {
+        "en-gb": "Dominica"
+    },
+    {
+        "en-gb": "Dominican Republic "
+    },
+    {
+        "en-gb": "East Timor"
+    },
+    {
+        "en-gb": "Ecuador "
+    },
+    {
+        "en-gb": "Egypt"
+    },
+    {
+        "en-gb": "El Salvador "
+    },
+    {
+        "en-gb": "Equatorial Guinea"
+    },
+    {
+        "en-gb": "Eritrea "
+    },
+    {
+        "en-gb": "Estonia "
+    },
+    {
+        "en-gb": "Eswatini"
+    },
+    {
+        "en-gb": "Ethiopia "
+    },
+    {
+        "en-gb": "Fiji"
+    },
+    {
+        "en-gb": "Finland"
+    },
+    {
+        "en-gb": "France"
+    },
+    {
+        "en-gb": "Gabon"
+    },
+    {
+        "en-gb": "Georgia"
+    },
+    {
+        "en-gb": "Germany"
+    },
+    {
+        "en-gb": "Ghana"
+    },
+    {
+        "en-gb": "Greece"
+    },
+    {
+        "en-gb": "Grenada"
+    },
+    {
+        "en-gb": "Guatemala"
+    },
+    {
+        "en-gb": "Guinea"
+    },
+    {
+        "en-gb": "Guinea-Bissau"
+    },
+    {
+        "en-gb": "Guyana"
+    },
+    {
+        "en-gb": "Haiti"
+    },
+    {
+        "en-gb": "Honduras"
+    },
+    {
+        "en-gb": "Hong Kong "
+    },
+    {
+        "en-gb": "Hungary"
+    },
+    {
+        "en-gb": "Iceland "
+    },
+    {
+        "en-gb": "India"
+    },
+    {
+        "en-gb": "Indonesia"
+    },
+    {
+        "en-gb": "Iran"
+    },
+    {
+        "en-gb": "Iraq"
+    },
+    {
+        "en-gb": "Israel"
+    },
+    {
+        "en-gb": "Italy"
+    },
+    {
+        "en-gb": "Ivory Coast"
+    },
+    {
+        "en-gb": "Jamaica"
+    },
+    {
+        "en-gb": "Japan"
+    },
+    {
+        "en-gb": "Jordan"
+    },
+    {
+        "en-gb": "Kazakhstan"
+    },
+    {
+        "en-gb": "Kenya"
+    },
+    {
+        "en-gb": "Kiribati"
+    },
+    {
+        "en-gb": "Kosovo"
+    },
+    {
+        "en-gb": "Kuwait"
+    },
+    {
+        "en-gb": "Kyrgyzstan"
+    },
+    {
+        "en-gb": "Laos"
+    },
+    {
+        "en-gb": "Latvia"
+    },
+    {
+        "en-gb": "Lebanon"
+    },
+    {
+        "en-gb": "Lesotho"
+    },
+    {
+        "en-gb": "Liberia"
+    },
+    {
+        "en-gb": "Libya"
+    },
+    {
+        "en-gb": "Liechtenstein"
+    },
+    {
+        "en-gb": "Lithuania"
+    },
+    {
+        "en-gb": "Luxembourg"
+    },
+    {
+        "en-gb": "Macao "
+    },
+    {
+        "en-gb": "Madagascar "
+    },
+    {
+        "en-gb": "Malawi"
+    },
+    {
+        "en-gb": "Malaysia"
+    },
+    {
+        "en-gb": "Maldives"
+    },
+    {
+        "en-gb": "Mali"
+    },
+    {
+        "en-gb": "Malta"
+    },
+    {
+        "en-gb": "Marshall Islands"
+    },
+    {
+        "en-gb": "Mauritania"
+    },
+    {
+        "en-gb": "Mauritius"
+    },
+    {
+        "en-gb": "Mexico"
+    },
+    {
+        "en-gb": "Micronesia"
+    },
+    {
+        "en-gb": "Moldova"
+    },
+    {
+        "en-gb": "Monaco"
+    },
+    {
+        "en-gb": "Mongolia"
+    },
+    {
+        "en-gb": "Montenegro"
+    },
+    {
+        "en-gb": "Morocco"
+    },
+    {
+        "en-gb": "Mozambique"
+    },
+    {
+        "en-gb": "Myanmar (Burma)"
+    },
+    {
+        "en-gb": "Namibia"
+    },
+    {
+        "en-gb": "Nauru"
+    },
+    {
+        "en-gb": "Nepal"
+    },
+    {
+        "en-gb": "Netherlands"
+    },
+    {
+        "en-gb": "New Zealand"
+    },
+    {
+        "en-gb": "Nicaragua"
+    },
+    {
+        "en-gb": "Niger"
+    },
+    {
+        "en-gb": "Nigeria"
+    },
+    {
+        "en-gb": "North Cyprus"
+    },
+    {
+        "en-gb": "North Korea"
+    },
+    {
+        "en-gb": "North Macedonia"
+    },
+    {
+        "en-gb": "Norway"
+    },
+    {
+        "en-gb": "Occupied Palestinian Territories "
+    },
+    {
+        "en-gb": "Oman"
+    },
+    {
+        "en-gb": "Pakistan"
+    },
+    {
+        "en-gb": "Palau"
+    },
+    {
+        "en-gb": "Panama"
+    },
+    {
+        "en-gb": "Papua New Guinea"
+    },
+    {
+        "en-gb": "Paraguay"
+    },
+    {
+        "en-gb": "Peru"
+    },
+    {
+        "en-gb": "Philippines"
+    },
+    {
+        "en-gb": "Poland"
+    },
+    {
+        "en-gb": "Portugal"
+    },
+    {
+        "en-gb": "Qatar"
+    },
+    {
+        "en-gb": "Romania"
+    },
+    {
+        "en-gb": "Russia"
+    },
+    {
+        "en-gb": "Rwanda"
+    },
+    {
+        "en-gb": "Samoa"
+    },
+    {
+        "en-gb": "San Marino"
+    },
+    {
+        "en-gb": "Sao Tome and Principe"
+    },
+    {
+        "en-gb": "Saudi Arabia"
+    },
+    {
+        "en-gb": "Senegal"
+    },
+    {
+        "en-gb": "Serbia"
+    },
+    {
+        "en-gb": "Seychelles"
+    },
+    {
+        "en-gb": "Sierra Leone"
+    },
+    {
+        "en-gb": "Singapore "
+    },
+    {
+        "en-gb": "Slovakia"
+    },
+    {
+        "en-gb": "Slovenia"
+    },
+    {
+        "en-gb": "Solomon Islands "
+    },
+    {
+        "en-gb": "Somalia"
+    },
+    {
+        "en-gb": "South Africa"
+    },
+    {
+        "en-gb": "South Korea"
+    },
+    {
+        "en-gb": "South Sudan"
+    },
+    {
+        "en-gb": "Spain"
+    },
+    {
+        "en-gb": "Sri Lanka "
+    },
+    {
+        "en-gb": "St Kitts and Nevis"
+    },
+    {
+        "en-gb": "St Lucia"
+    },
+    {
+        "en-gb": "St Vincent and the Grenadines"
+    },
+    {
+        "en-gb": "Sudan"
+    },
+    {
+        "en-gb": "Suriname"
+    },
+    {
+        "en-gb": "Sweden"
+    },
+    {
+        "en-gb": "Switzerland"
+    },
+    {
+        "en-gb": "Syria"
+    },
+    {
+        "en-gb": "Taiwan"
+    },
+    {
+        "en-gb": "Tajikistan"
+    },
+    {
+        "en-gb": "Tanzania"
+    },
+    {
+        "en-gb": "Thailand"
+    },
+    {
+        "en-gb": "The Bahamas"
+    },
+    {
+        "en-gb": "The Gambia"
+    },
+    {
+        "en-gb": "Togo"
+    },
+    {
+        "en-gb": "Tonga"
+    },
+    {
+        "en-gb": "Trinidad and Tobago"
+    },
+    {
+        "en-gb": "Tunisia"
+    },
+    {
+        "en-gb": "Turkey"
+    },
+    {
+        "en-gb": "Turkmenistan"
+    },
+    {
+        "en-gb": "Tuvalu"
+    },
+    {
+        "en-gb": "Uganda"
+    },
+    {
+        "en-gb": "Ukraine"
+    },
+    {
+        "en-gb": "United Arab Emirates"
+    },
+    {
+        "en-gb": "United States of America"
+    },
+    {
+        "en-gb": "Uruguay"
+    },
+    {
+        "en-gb": "Uzbekistan"
+    },
+    {
+        "en-gb": "Vanuatu"
+    },
+    {
+        "en-gb": "Vatican City"
+    },
+    {
+        "en-gb": "Venezuela"
+    },
+    {
+        "en-gb": "Vietnam"
+    },
+    {
+        "en-gb": "Yemen"
+    },
+    {
+        "en-gb": "Zambia"
+    },
+    {
+        "en-gb": "Zimbabwe"
+    }
+]
