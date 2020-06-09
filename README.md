@@ -12,22 +12,22 @@ This repository contains versioned TextField suggestion data for eq-questionnair
 | religions.json | List of religions |
 
 
-Source data files are provided by the business as multiple column csvs. These can be manually added/updated in this repository at ./source-data
+Source data files are provided by the business as multiple column csv files. These can be manually added/updated in this repository at ./source-data
+
+- source files to be provided by the business named for the above datasets
 
 - files to be UTF-8 csv
 
 - any values including commas should be double quoted
 
-- header row to contain comma separated language_codes (e.g `en_gb`, `cy`)
+- header row to contain comma separated language_codes (i.e `en_gb`, `cy`, `ga`, `eo`)
 
 - data rows to contain comma separated translated lookup values (as to be presented in the lookup lists)
 
-- null values for a given language item can be provided by a non-spaced commas. This will reslt in that term not being presented as a suggestion for that language
+- null values for a given language item can be provided by a non-spaced commas. This will result in that term not being presented as a suggestion for that language
 
-A json file can be generated from the source csv file using the ./scripts/convert_csv_to_json.py
+json files can be generated from the source csv files using `./scripts/convert_csv_to_json.py <version_folder>`
 
-- default expected source file location ./source-data
+- default expected source file location `./source-data`
 
-- default json file output location ./data
-
-- discussions as ongoing as to how versions of the files will be managed.
+- default json file output location `./data/<version_folder>`
