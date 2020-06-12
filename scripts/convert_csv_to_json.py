@@ -12,9 +12,12 @@ def generate_json_files(version):
     output_directory = './data/' + version + '/'
 
     for source_file_name in os.listdir(source_directory):
-        if os.path.isfile(os.path.join(source_directory, source_file_name)):
 
-            source_file = open(os.path.join(source_directory, source_file_name), 'r')
+        source_file_location = os.path.join(source_directory, source_file_name)
+
+        if os.path.isfile(source_file_location):
+
+            source_file = open(source_file_location, 'r')
 
             output_file_name = source_file_name.replace('.csv', '.json')
             output_file_location = os.path.join(output_directory, output_file_name)
@@ -37,6 +40,8 @@ def generate_json_files(version):
             print(source_file.name + " >> " + output_file_location)
 
             source_file.close()
+        else:
+            print("{0} is not a regular file").format(source_file_location)
 
 
 if __name__ == "__main__":
