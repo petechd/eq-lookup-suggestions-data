@@ -29,8 +29,9 @@ def generate_json_files():
 
             try:
                 # This approach will exclude null values
-                with open(output_file_location, 'w') as f:
-                    json.dump([row.dropna().to_dict() for index, row in csv_data.iterrows()], f, indent=3)
+                with open(output_file_location, 'w', encoding='utf8') as f:
+                    json.dump([row.dropna().to_dict() for index, row in csv_data.iterrows()],
+                              f, indent=3, ensure_ascii=False)
             except FileNotFoundError:
                 print("Output could not be written to {0}\nDoes the output folder {1} exist?"
                       .format(output_file_name, output_directory))
