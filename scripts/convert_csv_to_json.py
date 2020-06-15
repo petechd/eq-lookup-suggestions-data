@@ -2,14 +2,13 @@
 
 import os
 import pandas as pd
-import sys
 import json
 
 
-def generate_json_files(version):
+def generate_json_files():
 
     source_directory = './source-data/'
-    output_directory = './data/' + version + '/'
+    output_directory = './data/'
 
     for source_file_name in os.listdir(source_directory):
 
@@ -45,7 +44,4 @@ def generate_json_files(version):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) == 2:
-        generate_json_files(sys.argv[1])
-    else:
-        print("Please provide a version folder as the only argument")
+        generate_json_files()
