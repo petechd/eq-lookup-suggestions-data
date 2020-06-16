@@ -26,7 +26,7 @@ Source data files are provided by the business as multiple column csv files. The
 
 - null values for a given language item can be provided by a non-spaced commas. This will result in that term not being presented as a suggestion for that language
 
-json files can be generated from the source csv files using `pipenv run python scripts/convert_csv_to_json.py`
+json files can be generated from the source csv files using `./scripts/convert_csv_to_json.py`
 
 - expected source file location `./source-data`
 

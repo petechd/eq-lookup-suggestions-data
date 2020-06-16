@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import os
-import pandas as pd
+import csv
 import json
 
 
@@ -21,17 +21,15 @@ def generate_json_files():
             output_file_name = source_file_name.replace('.csv', '.json')
             output_file_location = os.path.join(output_directory, output_file_name)
 
-            csv_data = pd.DataFrame(
-                pd.read_csv(source_file,
-                            sep=",",
-                            header=0,
-                            index_col=False))
+            json_data = []
 
+            with open(source_file_location, newline='') as csv_file:
+                for row in csv.DictReader(csv_file):
+                    # Append the data item as a json key-value if not an empty string
+                    json_data.append({k: v for k, v in row.items() if v})
             try:
-                # This approach will exclude null values
                 with open(output_file_location, 'w', encoding='utf8') as f:
-                    json.dump([row.dropna().to_dict() for index, row in csv_data.iterrows()],
-                              f, indent=3, ensure_ascii=False)
+                    json.dump(json_data, f, indent=3, ensure_ascii=False)
             except FileNotFoundError:
                 print(
                     f"Output could not be written to {output_file_name}\nDoes the output folder {output_directory} exist?"
