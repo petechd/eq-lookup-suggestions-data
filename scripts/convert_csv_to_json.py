@@ -33,8 +33,9 @@ def generate_json_files():
                     json.dump([row.dropna().to_dict() for index, row in csv_data.iterrows()],
                               f, indent=3, ensure_ascii=False)
             except FileNotFoundError:
-                print("Output could not be written to {0}\nDoes the output folder {1} exist?"
-                      .format(output_file_name, output_directory))
+                print(
+                    f"Output could not be written to {output_file_name}\nDoes the output folder {output_directory} exist?"
+                )
                 return
 
             print(source_file.name + " >> " + output_file_location)
