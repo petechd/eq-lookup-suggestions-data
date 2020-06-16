@@ -38,7 +38,7 @@ def generate_json_files():
                 )
                 return
 
-            print(source_file.name + " >> " + output_file_location)
+            print(f"{source_file.name} >> {output_file_location}")
 
             source_file.close()
         else:
