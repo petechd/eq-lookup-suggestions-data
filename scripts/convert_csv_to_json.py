@@ -42,7 +42,7 @@ def generate_json_files():
 
             source_file.close()
         else:
-            print("{0} is not a regular file").format(source_file_location)
+            print(f"{source_file_location} is not a regular file")
 
 
 if __name__ == "__main__":
