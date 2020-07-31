@@ -1,668 +1,700 @@
 [
-    {
-        "en-gb": "Polish"
-    },
-    {
-        "en-gb": "Urdu"
-    },
-    {
-        "en-gb": "Punjabi"
-    },
-    {
-        "en-gb": "Bengali or Bangala"
-    },
-    {
-        "en-gb": "Chinese"
-    },
-    {
-        "en-gb": "French"
-    },
-    {
-        "en-gb": "Gujarati"
-    },
-    {
-        "en-gb": "Arabic"
-    },
-    {
-        "en-gb": "Spanish"
-    },
-    {
-        "en-gb": "Portuguese"
-    },
-    {
-        "en-gb": "Tamil"
-    },
-    {
-        "en-gb": "Turkish"
-    },
-    {
-        "en-gb": "Italian"
-    },
-    {
-        "en-gb": "German"
-    },
-    {
-        "en-gb": "Lithuanian"
-    },
-    {
-        "en-gb": "Somali"
-    },
-    {
-        "en-gb": "Russian"
-    },
-    {
-        "en-gb": "Romanian"
-    },
-    {
-        "en-gb": "English"
-    },
-    {
-        "en-gb": "Hindi"
-    },
-    {
-        "en-gb": "Hungarian"
-    },
-    {
-        "en-gb": "Malayalam"
-    },
-    {
-        "en-gb": "Bulgarian"
-    },
-    {
-        "en-gb": "Tagalog"
-    },
-    {
-        "en-gb": "Kurdish"
-    },
-    {
-        "en-gb": "Nepali"
-    },
-    {
-        "en-gb": "Latvian"
-    },
-    {
-        "en-gb": "Japanese"
-    },
-    {
-        "en-gb": "Thai"
-    },
-    {
-        "en-gb": "Czech"
-    },
-    {
-        "en-gb": "Slovak"
-    },
-    {
-        "en-gb": "Albanian"
-    },
-    {
-        "en-gb": "Dutch"
-    },
-    {
-        "en-gb": "Shona"
-    },
-    {
-        "en-gb": "Pashto"
-    },
-    {
-        "en-gb": "Swedish"
-    },
-    {
-        "en-gb": "Panjabi"
-    },
-    {
-        "en-gb": "Korean"
-    },
-    {
-        "en-gb": "Telugu"
-    },
-    {
-        "en-gb": "Vietnamese"
-    },
-    {
-        "en-gb": "Yoruba"
-    },
-    {
-        "en-gb": "Persian or Farsi"
-    },
-    {
-        "en-gb": "Twi"
-    },
-    {
-        "en-gb": "Welsh"
-    },
-    {
-        "en-gb": "Pushto"
-    },
-    {
-        "en-gb": "Afrikaans"
-    },
-    {
-        "en-gb": "Danish"
-    },
-    {
-        "en-gb": "Swahili"
-    },
-    {
-        "en-gb": "Norwegian"
-    },
-    {
-        "en-gb": "Malay"
-    },
-    {
-        "en-gb": "Finnish"
-    },
-    {
-        "en-gb": "Marathi"
-    },
-    {
-        "en-gb": "Sinhala"
-    },
-    {
-        "en-gb": "Amharic"
-    },
-    {
-        "en-gb": "Hebrew"
-    },
-    {
-        "en-gb": "Igbo"
-    },
-    {
-        "en-gb": "Serbian"
-    },
-    {
-        "en-gb": "Ukrainian"
-    },
-    {
-        "en-gb": "Sinhalese"
-    },
-    {
-        "en-gb": "Kannada"
-    },
-    {
-        "en-gb": "Tigrinya"
-    },
-    {
-        "en-gb": "Lingala"
-    },
-    {
-        "en-gb": "Yiddish"
-    },
-    {
-        "en-gb": "Croatian"
-    },
-    {
-        "en-gb": "Estonian"
-    },
-    {
-        "en-gb": "Maltese"
-    },
-    {
-        "en-gb": "Indonesian"
-    },
-    {
-        "en-gb": "Bosnian"
-    },
-    {
-        "en-gb": "Armenian"
-    },
-    {
-        "en-gb": "Akan"
-    },
-    {
-        "en-gb": "Burmese"
-    },
-    {
-        "en-gb": "Catalan"
-    },
-    {
-        "en-gb": "Georgian"
-    },
-    {
-        "en-gb": "Zulu"
-    },
-    {
-        "en-gb": "Kazakh"
-    },
-    {
-        "en-gb": "Fijian"
-    },
-    {
-        "en-gb": "Hausa"
-    },
-    {
-        "en-gb": "Irish"
-    },
-    {
-        "en-gb": "Sindhi"
-    },
-    {
-        "en-gb": "Macedonian"
-    },
-    {
-        "en-gb": "Flemish"
-    },
-    {
-        "en-gb": "Icelandic"
-    },
-    {
-        "en-gb": "Mongolian"
-    },
-    {
-        "en-gb": "Guarani"
-    },
-    {
-        "en-gb": "Chichewa"
-    },
-    {
-        "en-gb": "Kashmiri"
-    },
-    {
-        "en-gb": "Slovenian"
-    },
-    {
-        "en-gb": "Uzbek"
-    },
-    {
-        "en-gb": "Xhosa"
-    },
-    {
-        "en-gb": "Ewe"
-    },
-    {
-        "en-gb": "Cornish"
-    },
-    {
-        "en-gb": "Azerbaijani"
-    },
-    {
-        "en-gb": "Kikuyu"
-    },
-    {
-        "en-gb": "Kinyarwanda"
-    },
-    {
-        "en-gb": "Gaelic"
-    },
-    {
-        "en-gb": "Tibetan"
-    },
-    {
-        "en-gb": "Oromo"
-    },
-    {
-        "en-gb": "Oriya"
-    },
-    {
-        "en-gb": "Luxembourgish"
-    },
-    {
-        "en-gb": "Wolof"
-    },
-    {
-        "en-gb": "Turkmen"
-    },
-    {
-        "en-gb": "Assamese"
-    },
-    {
-        "en-gb": "Basque"
-    },
-    {
-        "en-gb": "Dhivehi"
-    },
-    {
-        "en-gb": "Tswana"
-    },
-    {
-        "en-gb": "Faroese"
-    },
-    {
-        "en-gb": "Kyrgyz"
-    },
-    {
-        "en-gb": "Chechen"
-    },
-    {
-        "en-gb": "Chewa"
-    },
-    {
-        "en-gb": "Galician"
-    },
-    {
-        "en-gb": "Lao"
-    },
-    {
-        "en-gb": "Tajik"
-    },
-    {
-        "en-gb": "Nyanja"
-    },
-    {
-        "en-gb": "Fulah"
-    },
-    {
-        "en-gb": "Belarusian"
-    },
-    {
-        "en-gb": "Moldovan"
-    },
-    {
-        "en-gb": "Malagasy"
-    },
-    {
-        "en-gb": "Latin"
-    },
-    {
-        "en-gb": "Uyghur"
-    },
-    {
-        "en-gb": "Moldavian"
-    },
-    {
-        "en-gb": "Kanuri"
-    },
-    {
-        "en-gb": "Venda"
-    },
-    {
-        "en-gb": "Herero"
-    },
-    {
-        "en-gb": "Samoan"
-    },
-    {
-        "en-gb": "Esperanto"
-    },
-    {
-        "en-gb": "Bambara"
-    },
-    {
-        "en-gb": "Tsonga"
-    },
-    {
-        "en-gb": "Dzongkha"
-    },
-    {
-        "en-gb": "Uighur"
-    },
-    {
-        "en-gb": "Maldivian"
-    },
-    {
-        "en-gb": "Afar"
-    },
-    {
-        "en-gb": "Scottish Gaelic"
-    },
-    {
-        "en-gb": "Javanese"
-    },
-    {
-        "en-gb": "Rundi"
-    },
-    {
-        "en-gb": "Breton"
-    },
-    {
-        "en-gb": "Castilian"
-    },
-    {
-        "en-gb": "Gikuyu"
-    },
-    {
-        "en-gb": "Ganda"
-    },
-    {
-        "en-gb": "Maori"
-    },
-    {
-        "en-gb": "Sanskrit"
-    },
-    {
-        "en-gb": "Manx"
-    },
-    {
-        "en-gb": "Tatar"
-    },
-    {
-        "en-gb": "Swati"
-    },
-    {
-        "en-gb": "Valencian"
-    },
-    {
-        "en-gb": "Aymara"
-    },
-    {
-        "en-gb": "Divehi"
-    },
-    {
-        "en-gb": "Ido"
-    },
-    {
-        "en-gb": "Bislama"
-    },
-    {
-        "en-gb": "Haitian Creole"
-    },
-    {
-        "en-gb": "Quechua"
-    },
-    {
-        "en-gb": "Limburgish"
-    },
-    {
-        "en-gb": "Norwegian Bokmål"
-    },
-    {
-        "en-gb": "Romansh"
-    },
-    {
-        "en-gb": "Sango"
-    },
-    {
-        "en-gb": "Sundanese"
-    },
-    {
-        "en-gb": "Abkhazian"
-    },
-    {
-        "en-gb": "Bashkir"
-    },
-    {
-        "en-gb": "Chuvash"
-    },
-    {
-        "en-gb": "Corsican"
-    },
-    {
-        "en-gb": "Cree"
-    },
-    {
-        "en-gb": "Greenlandic"
-    },
-    {
-        "en-gb": "Komi"
-    },
-    {
-        "en-gb": "Kuanyama"
-    },
-    {
-        "en-gb": "Kwanyama"
-    },
-    {
-        "en-gb": "Navajo"
-    },
-    {
-        "en-gb": "Ossetian"
-    },
-    {
-        "en-gb": "Tahitian"
-    },
-    {
-        "en-gb": "Walloon"
-    },
-    {
-        "en-gb": "Zhuang"
-    },
-    {
-        "en-gb": "British Sign Language"
-    },
-    {
-        "en-gb": "Aragonese"
-    },
-    {
-        "en-gb": "Avaric"
-    },
-    {
-        "en-gb": "Avestan"
-    },
-    {
-        "en-gb": "Bihari languages"
-    },
-    {
-        "en-gb": "Bokmål, Norwegian"
-    },
-    {
-        "en-gb": "Central Khmer"
-    },
-    {
-        "en-gb": "Chamorro"
-    },
-    {
-        "en-gb": "Chuang"
-    },
-    {
-        "en-gb": "Church Slavic"
-    },
-    {
-        "en-gb": "Church Slavonic"
-    },
-    {
-        "en-gb": "Greek"
-    },
-    {
-        "en-gb": "Haitian"
-    },
-    {
-        "en-gb": "Hiri Motu"
-    },
-    {
-        "en-gb": "Interlingua (International Auxiliary Language Association)"
-    },
-    {
-        "en-gb": "Interlingue"
-    },
-    {
-        "en-gb": "Inuktitut"
-    },
-    {
-        "en-gb": "Inupiaq"
-    },
-    {
-        "en-gb": "Kalaallisut"
-    },
-    {
-        "en-gb": "Kirghiz"
-    },
-    {
-        "en-gb": "Kongo"
-    },
-    {
-        "en-gb": "Letzeburgesch"
-    },
-    {
-        "en-gb": "Limburgan"
-    },
-    {
-        "en-gb": "Limburger"
-    },
-    {
-        "en-gb": "Luba-Katanga"
-    },
-    {
-        "en-gb": "Marshallese"
-    },
-    {
-        "en-gb": "Nauru"
-    },
-    {
-        "en-gb": "Navaho"
-    },
-    {
-        "en-gb": "Ndebele, North"
-    },
-    {
-        "en-gb": "Ndebele, South"
-    },
-    {
-        "en-gb": "Ndonga"
-    },
-    {
-        "en-gb": "North Ndebele"
-    },
-    {
-        "en-gb": "Northern Sami"
-    },
-    {
-        "en-gb": "Norwegian Nynorsk"
-    },
-    {
-        "en-gb": "Nuosu"
-    },
-    {
-        "en-gb": "Nynorsk, Norwegian"
-    },
-    {
-        "en-gb": "Occidental"
-    },
-    {
-        "en-gb": "Ojibwa"
-    },
-    {
-        "en-gb": "Old Bulgarian"
-    },
-    {
-        "en-gb": "Old Church Slavonic"
-    },
-    {
-        "en-gb": "Old Slavonic"
-    },
-    {
-        "en-gb": "Ossetic"
-    },
-    {
-        "en-gb": "Pali"
-    },
-    {
-        "en-gb": "Sichuan Yi"
-    },
-    {
-        "en-gb": "Sotho, Southern"
-    },
-    {
-        "en-gb": "South Ndebele"
-    },
-    {
-        "en-gb": "Tonga (Tonga Islands)"
-    },
-    {
-        "en-gb": "Volapük"
-    },
-    {
-        "en-gb": "Western Frisian"
-    },
-    {
-        "en-gb": "Cantonese"
-    },
-    {
-        "en-gb": "Mandarin"
-    },
-    {
-        "en-gb": "Mirpuri"
-    },
-    {
-        "en-gb": "Dari"
-    }
+   {
+      "en-gb": "Abkhazian",
+      "cy": "Abkhazeg"
+   },
+   {
+      "en-gb": "Afar",
+      "cy": "Afar"
+   },
+   {
+      "en-gb": "Afrikaans",
+      "cy": "Afrikaans"
+   },
+   {
+      "en-gb": "Albanian",
+      "cy": "Albanieg"
+   },
+   {
+      "en-gb": "Amharic",
+      "cy": "Amhareg"
+   },
+   {
+      "en-gb": "Arabic",
+      "cy": "Arabeg"
+   },
+   {
+      "en-gb": "Aragonese",
+      "cy": "Aragoneg"
+   },
+   {
+      "en-gb": "Armenian",
+      "cy": "Armeneg"
+   },
+   {
+      "en-gb": "Assamese",
+      "cy": "Assameg"
+   },
+   {
+      "en-gb": "Aymara",
+      "cy": "Aymara"
+   },
+   {
+      "en-gb": "Azerbaijani",
+      "cy": "Azerbaijaneg"
+   },
+   {
+      "en-gb": "Bambara",
+      "cy": "Bambara"
+   },
+   {
+      "en-gb": "Bashkir",
+      "cy": "Bashkir"
+   },
+   {
+      "en-gb": "Basque",
+      "cy": "Basgeg"
+   },
+   {
+      "en-gb": "Belarusian",
+      "cy": "Belarwseg"
+   },
+   {
+      "en-gb": "Bengali or Bangla",
+      "cy": "Bengaleg neu Bangla"
+   },
+   {
+      "en-gb": "Bihari languages",
+      "cy": "Ieithoedd Bihari"
+   },
+   {
+      "en-gb": "Bislama",
+      "cy": "Bislama"
+   },
+   {
+      "en-gb": "Bosnian",
+      "cy": "Bosnieg"
+   },
+   {
+      "en-gb": "Breton",
+      "cy": "Llydaweg/Brezhoneg"
+   },
+   {
+      "en-gb": "British Sign Language",
+      "cy": "Iaith Arwyddion Prydain"
+   },
+   {
+      "en-gb": "Bulgarian",
+      "cy": "Bwlgareg"
+   },
+   {
+      "en-gb": "Burmese",
+      "cy": "Burmaneg/Byrmaneg"
+   },
+   {
+      "en-gb": "Cantonese",
+      "cy": "Cantoneg"
+   },
+   {
+      "en-gb": "Castilian",
+      "cy": "Castileg"
+   },
+   {
+      "en-gb": "Catalan",
+      "cy": "Catalaneg"
+   },
+   {
+      "en-gb": "Chechen",
+      "cy": "Chechen"
+   },
+   {
+      "en-gb": "Chewa",
+      "cy": "Chewa"
+   },
+   {
+      "en-gb": "Chichewa",
+      "cy": "Chichewa"
+   },
+   {
+      "en-gb": "Chinese",
+      "cy": "Chineeg/Tsieineeg"
+   },
+   {
+      "en-gb": "Chuvash",
+      "cy": "Chuvash"
+   },
+   {
+      "en-gb": "Cornish",
+      "cy": "Cernyweg/Kernowek"
+   },
+   {
+      "en-gb": "Cree",
+      "cy": "Crïeg"
+   },
+   {
+      "en-gb": "Croatian",
+      "cy": "Croateg"
+   },
+   {
+      "en-gb": "Cymraeg",
+      "cy": "Cymraeg"
+   },
+   {
+      "en-gb": "Czech",
+      "cy": "Tsieceg"
+   },
+   {
+      "en-gb": "Danish",
+      "cy": "Daneg"
+   },
+   {
+      "en-gb": "Dari",
+      "cy": "Dari"
+   },
+   {
+      "en-gb": "Dhivehi",
+      "cy": "Dhivehi"
+   },
+   {
+      "en-gb": "Dutch",
+      "cy": "Iseldireg"
+   },
+   {
+      "en-gb": "Dzongkha",
+      "cy": "Dzongkha"
+   },
+   {
+      "en-gb": "English",
+      "cy": "Saesneg"
+   },
+   {
+      "en-gb": "Estonian",
+      "cy": "Estoneg"
+   },
+   {
+      "en-gb": "Ewe",
+      "cy": "Ewe"
+   },
+   {
+      "en-gb": "Faroese",
+      "cy": "Ffaröeg"
+   },
+   {
+      "en-gb": "Fijian",
+      "cy": "Ffijïeg"
+   },
+   {
+      "en-gb": "Filipino",
+      "cy": "Ffilipineg"
+   },
+   {
+      "en-gb": "Finnish",
+      "cy": "Ffinneg"
+   },
+   {
+      "en-gb": "Flemish",
+      "cy": "Fflemineg"
+   },
+   {
+      "en-gb": "French",
+      "cy": "Ffrangeg"
+   },
+   {
+      "en-gb": "Fulah",
+      "cy": "Fulah"
+   },
+   {
+      "en-gb": "Gaelic",
+      "cy": "Gaeleg/Gaelige"
+   },
+   {
+      "en-gb": "Ganda",
+      "cy": "Ganda"
+   },
+   {
+      "en-gb": "Georgian",
+      "cy": "Georgeg"
+   },
+   {
+      "en-gb": "German",
+      "cy": "Almaeneg"
+   },
+   {
+      "en-gb": "Gikuyu",
+      "cy": "Gikuyu"
+   },
+   {
+      "en-gb": "Greek",
+      "cy": "Groeg"
+   },
+   {
+      "en-gb": "Greenlandic",
+      "cy": "Glasynyseg"
+   },
+   {
+      "en-gb": "Guarani",
+      "cy": "Guarani/Gwarani"
+   },
+   {
+      "en-gb": "Gujarati",
+      "cy": "Gujarati/Gwjarati"
+   },
+   {
+      "en-gb": "Haitian",
+      "cy": "Haiteg"
+   },
+   {
+      "en-gb": "Haitian Creole",
+      "cy": "Creoliaith Haiti"
+   },
+   {
+      "en-gb": "Hausa",
+      "cy": "Hausa/Hawsa"
+   },
+   {
+      "en-gb": "Hebrew",
+      "cy": "Hebraeg"
+   },
+   {
+      "en-gb": "Herero",
+      "cy": "Herero"
+   },
+   {
+      "en-gb": "Hindi",
+      "cy": "Hindi"
+   },
+   {
+      "en-gb": "Hungarian",
+      "cy": "Hwngareg"
+   },
+   {
+      "en-gb": "Icelandic",
+      "cy": "Islandeg"
+   },
+   {
+      "en-gb": "Igbo",
+      "cy": "Igbo"
+   },
+   {
+      "en-gb": "Indonesian",
+      "cy": "Indoneseg"
+   },
+   {
+      "en-gb": "Irish",
+      "cy": "Gwyddeleg"
+   },
+   {
+      "en-gb": "Italian",
+      "cy": "Eidaleg"
+   },
+   {
+      "en-gb": "Japanese",
+      "cy": "Japaneeg/Siapaneeg"
+   },
+   {
+      "en-gb": "Javanese",
+      "cy": "Javaneg/Jafaneg"
+   },
+   {
+      "en-gb": "Kannada",
+      "cy": "Kannada/Canareg"
+   },
+   {
+      "en-gb": "Kanuri",
+      "cy": "Kanuri"
+   },
+   {
+      "en-gb": "Kashmiri",
+      "cy": "Kashmireg/Cashmireg"
+   },
+   {
+      "en-gb": "Kazakh",
+      "cy": "Kazakh"
+   },
+   {
+      "en-gb": "Kikuyu",
+      "cy": "Kikuyu"
+   },
+   {
+      "en-gb": "Kinyarwanda",
+      "cy": "Kinyarwanda"
+   },
+   {
+      "en-gb": "Komi",
+      "cy": "Komi"
+   },
+   {
+      "en-gb": "Korean",
+      "cy": "Korëeg/Corëeg"
+   },
+   {
+      "en-gb": "Kurdish",
+      "cy": "Kurdeg/Cwrdeg"
+   },
+   {
+      "en-gb": "Kwanyama",
+      "cy": "Kwanyama"
+   },
+   {
+      "en-gb": "Kyrgyz",
+      "cy": "Kyrgyz"
+   },
+   {
+      "en-gb": "Lao",
+      "cy": "Laoseg"
+   },
+   {
+      "en-gb": "Latvian",
+      "cy": "Latfieg"
+   },
+   {
+      "en-gb": "Letzeburgesch",
+      "cy": "Letzeburgesch"
+   },
+   {
+      "en-gb": "Lingala",
+      "cy": "Lingala"
+   },
+   {
+      "en-gb": "Lithuanian",
+      "cy": "Lithwaneg"
+   },
+   {
+      "en-gb": "Luxembourgish",
+      "cy": "Lwcsembwrgeg"
+   },
+   {
+      "en-gb": "Macedonian",
+      "cy": "Macedoneg"
+   },
+   {
+      "en-gb": "Malagasy",
+      "cy": "Malagasi"
+   },
+   {
+      "en-gb": "Malay",
+      "cy": "Maleieg"
+   },
+   {
+      "en-gb": "Malayalam",
+      "cy": "Malaialam"
+   },
+   {
+      "en-gb": "Maldivian",
+      "cy": "Iaith Maldives"
+   },
+   {
+      "en-gb": "Maltese",
+      "cy": "Malteg"
+   },
+   {
+      "en-gb": "Mandarin",
+      "cy": "Mandarin"
+   },
+   {
+      "en-gb": "Manx",
+      "cy": "Manaweg"
+   },
+   {
+      "en-gb": "Maori",
+      "cy": "Maori"
+   },
+   {
+      "en-gb": "Marathi",
+      "cy": "Marati"
+   },
+   {
+      "en-gb": "Mirpuri",
+      "cy": "Mirpuri"
+   },
+   {
+      "en-gb": "Moldavian",
+      "cy": "Moldofeg"
+   },
+   {
+      "en-gb": "Moldovan"
+   },
+   {
+      "en-gb": "Mongolian",
+      "cy": "Mongoleg"
+   },
+   {
+      "en-gb": "Navajo",
+      "cy": "Navajo"
+   },
+   {
+      "en-gb": "Nepali",
+      "cy": "Nepaleg"
+   },
+   {
+      "en-gb": "North Ndebele",
+      "cy": "Ndebele Gogleddol"
+   },
+   {
+      "en-gb": "Norwegian",
+      "cy": "Norwyeg"
+   },
+   {
+      "en-gb": "Norwegian Bokmål",
+      "cy": "Norwyeg (Bokmål)"
+   },
+   {
+      "en-gb": "Norwegian Nynorsk",
+      "cy": "Norwyedg (Nynorsk)"
+   },
+   {
+      "en-gb": "Nyanja",
+      "cy": "Nyanja"
+   },
+   {
+      "en-gb": "Oriya",
+      "cy": "Oriya"
+   },
+   {
+      "en-gb": "Oromo",
+      "cy": "Oromo"
+   },
+   {
+      "en-gb": "Panjabi",
+      "cy": "Pwnjabeg"
+   },
+   {
+      "en-gb": "Pashto",
+      "cy": "Pashto"
+   },
+   {
+      "en-gb": "Persian or Farsi",
+      "cy": "Perseg neu Ffarsi"
+   },
+   {
+      "en-gb": "Polish",
+      "cy": "Pwyleg"
+   },
+   {
+      "en-gb": "Portuguese",
+      "cy": "Portiwgaleg"
+   },
+   {
+      "en-gb": "Punjabi",
+      "cy": "Punjabeg"
+   },
+   {
+      "en-gb": "Pushto",
+      "cy": "Pushto"
+   },
+   {
+      "en-gb": "Quechua",
+      "cy": "Quechua"
+   },
+   {
+      "en-gb": "Romanian",
+      "cy": "Romaneg/Rwmaneg"
+   },
+   {
+      "en-gb": "Romansh",
+      "cy": "Romansh"
+   },
+   {
+      "en-gb": "Rundi",
+      "cy": "Rundi"
+   },
+   {
+      "en-gb": "Russian",
+      "cy": "Rwseg"
+   },
+   {
+      "en-gb": "Samoan",
+      "cy": "Samöeg"
+   },
+   {
+      "en-gb": "Sango",
+      "cy": "Sango"
+   },
+   {
+      "en-gb": "Scottish Gaelic",
+      "cy": "Gaeleg yr Alban/Gàidhlig"
+   },
+   {
+      "en-gb": "Serbian",
+      "cy": "Serbeg"
+   },
+   {
+      "en-gb": "Shona",
+      "cy": "Shona"
+   },
+   {
+      "en-gb": "Sindhi",
+      "cy": "Sindhi"
+   },
+   {
+      "en-gb": "Sinhala",
+      "cy": "Sinhala"
+   },
+   {
+      "en-gb": "Sinhalese"
+   },
+   {
+      "en-gb": "Slovak",
+      "cy": "Slofaceg"
+   },
+   {
+      "en-gb": "Slovenian",
+      "cy": "Slofeneg"
+   },
+   {
+      "en-gb": "Somali",
+      "cy": "Somalieg"
+   },
+   {
+      "en-gb": "Southern Sotho",
+      "cy": "Sotho Deheuol"
+   },
+   {
+      "en-gb": "South Ndebele",
+      "cy": "Ndebele Deheuol"
+   },
+   {
+      "en-gb": "Spanish",
+      "cy": "Sbaeneg"
+   },
+   {
+      "en-gb": "Sundanese",
+      "cy": "Sundaneg/Swndaneg"
+   },
+   {
+      "en-gb": "Swahili",
+      "cy": "Swahili"
+   },
+   {
+      "en-gb": "Swati",
+      "cy": "Swati"
+   },
+   {
+      "en-gb": "Swedish",
+      "cy": "Swedeg"
+   },
+   {
+      "en-gb": "Sylheti",
+      "cy": "Sylheti"
+   },
+   {
+      "en-gb": "Tagalog",
+      "cy": "Tagalog"
+   },
+   {
+      "en-gb": "Tahitian",
+      "cy": "Tahitïeg"
+   },
+   {
+      "en-gb": "Tajik",
+      "cy": "Tajik"
+   },
+   {
+      "en-gb": "Tamil",
+      "cy": "Tamil"
+   },
+   {
+      "en-gb": "Tatar",
+      "cy": "Tatar"
+   },
+   {
+      "en-gb": "Telugu",
+      "cy": "Telugu/Telwgw"
+   },
+   {
+      "en-gb": "Thai",
+      "cy": "Thai"
+   },
+   {
+      "en-gb": "Tibetan",
+      "cy": "Tibeteg"
+   },
+   {
+      "en-gb": "Tigrinya",
+      "cy": "Tigrinya"
+   },
+   {
+      "en-gb": "Tonga (Tonga Islands)",
+      "cy": "Tonga (Ynysoedd Tonga)"
+   },
+   {
+      "en-gb": "Tsonga",
+      "cy": "Tsonga"
+   },
+   {
+      "en-gb": "Tswana",
+      "cy": "Tswana"
+   },
+   {
+      "en-gb": "Turkish",
+      "cy": "Twrceg/Tyrceg"
+   },
+   {
+      "en-gb": "Turkmen",
+      "cy": "Turkmeneg/Tyrcmeneg"
+   },
+   {
+      "en-gb": "Twi",
+      "cy": "Twi"
+   },
+   {
+      "en-gb": "Uighur",
+      "cy": "Uighur"
+   },
+   {
+      "en-gb": "Ukrainian",
+      "cy": "Ukreineg/Wcreineg"
+   },
+   {
+      "en-gb": "Urdu",
+      "cy": "Urdu/Wrdw"
+   },
+   {
+      "en-gb": "Uyghur",
+      "cy": "Uyghur"
+   },
+   {
+      "en-gb": "Uzbek",
+      "cy": "Uzbek"
+   },
+   {
+      "en-gb": "Venda",
+      "cy": "Venda"
+   },
+   {
+      "en-gb": "Vietnamese",
+      "cy": "Vietnameg/Fietnameg"
+   },
+   {
+      "en-gb": "Walloon",
+      "cy": "Walwneg"
+   },
+   {
+      "en-gb": "Welsh",
+      "cy": "Cymraeg"
+   },
+   {
+      "en-gb": "Wolof",
+      "cy": "Woloff"
+   },
+   {
+      "en-gb": "Xhosa",
+      "cy": "Xhosa"
+   },
+   {
+      "en-gb": "Yiddish",
+      "cy": "Yiddeg/Iddew-Almaeneg"
+   },
+   {
+      "en-gb": "Yoruba",
+      "cy": "Yoruba/Iorwba"
+   },
+   {
+      "en-gb": "Zhuang",
+      "cy": "Zhuang"
+   },
+   {
+      "en-gb": "Zulu",
+      "cy": "Zulu/Zwlw"
+   }
 ]

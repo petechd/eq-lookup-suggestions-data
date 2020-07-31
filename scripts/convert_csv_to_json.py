@@ -35,6 +35,7 @@ def generate_json_files():
                 try:
                     with open(output_file_location, 'w', encoding='utf8') as f:
                         json.dump(json_data, f, indent=3, ensure_ascii=False)
+                        f.write("\n")
                 except FileNotFoundError:
                     print(
                         f"Output could not be written to {output_file_location}\nDoes the output folder {output_root}/{source_directory_name} exist?"
