@@ -1,9 +1,11 @@
 [
    {
-      "en-gb": "United Kingdom"
+      "en-gb": "United Kingdom",
+      "cy": "Y Deyrnas Unedig"
    },
    {
-      "en-gb": "Ireland"
+      "en-gb": "Ireland",
+      "cy": "Iwerddon"
    },
    {
       "en-gb": "Afghanistan",
@@ -654,7 +656,7 @@
    },
    {
       "en-gb": "Spain",
-      "cy": "Sbaen (gan gynnwys Ynysoedd Baleares) "
+      "cy": "Sbaen (gan gynnwys Ynysoedd Baleares)"
    },
    {
       "en-gb": "Sri Lanka",
