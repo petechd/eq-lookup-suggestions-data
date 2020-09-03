@@ -1,67 +1,197 @@
 [
-    "Agnostig",
-    "Mwslim Ahmadi/Moslem Ahmadi",
-    "Alevi",
-    "Anglicaniad",
-    "Anffyddiwr/Anffyddwraig",
-    "Bahai",
-    "Bedyddiwr/Bedyddwraig",
-    "Cristion Ailanedig",
-    "Bwdhydd",
-    "Catholig/Pabydd/Pabyddes",
-    "Capel",
-    "Cristadelffiad",
-    "Cristion",
-    "Cristion Uniongred",
-    "Eglwys yng Nghymru",
-    "Eglwys Crist",
-    "Eglwys Loegr",
-    "Eglwys Duw",
-    "Eglwys yr Alban",
-    "Coptig Uniongred",
-    "Dëist",
-    "Derwydd",
-    "Efengylaidd",
-    "Gnostig",
-    "Uniongred Groegaidd",
-    "Hare Krishna",
-    "Hindŵ",
-    "Holistaidd",
-    "Annibynnol",
-    "Jain",
-    "Tyst Jehovah",
-    "Iddewig",
-    "Kirat",
-    "Saint y Dyddiau Diwethaf",
-    "Lutheriad",
-    "Methodist",
-    "Mormon",
-    "Mwslim/Moslem",
-    "Dim Crefydd",
-    "Pagan",
-    "Pantheist",
-    "Pentecostiad",
-    "Presbyteriad",
-    "Protestant",
-    "Crynwr/Crynwraig",
-    "Rastaffariad",
-    "Ravidassia",
-    "Catholig Eglwys Rufain/Pabydd Eglwys Rufain/Pabyddes Eglwys Rufain",
-    "Uniongred Rwsiaidd",
-    "Byddin yr Iachawdwriaeth",
-    "Satanydd",
-    "Seientoleg",
-    "Uniongred Serbaidd",
-    "Adfentydd y Seithfed Dydd",
-    "Shinto",
-    "Sikh",
-    "Ysbrydol",
-    "Ysbrydegydd",
-    "Taöydd",
-    "Theistiad",
-    "Undodwr",
-    "Bedyddiwr Cymreig/Bedyddwraig Gymreig",
-    "Wiccan",
-    "Yazidi",
-    "Zoroastriad"
+    {
+        "cy": "Agnostig"
+    },
+    {
+        "cy": "Mwslim Ahmadi/Moslem Ahmadi"
+    },
+    {
+        "cy": "Alevi"
+    },
+    {
+        "cy": "Anglicaniad"
+    },
+    {
+        "cy": "Anffyddiwr/Anffyddwraig"
+    },
+    {
+        "cy": "Bahai"
+    },
+    {
+        "cy": "Bedyddiwr/Bedyddwraig"
+    },
+    {
+        "cy": "Cristion Ailanedig"
+    },
+    {
+        "cy": "Bwdhydd"
+    },
+    {
+        "cy": "Catholig/Pabydd/Pabyddes"
+    },
+    {
+        "cy": "Capel"
+    },
+    {
+        "cy": "Cristadelffiad"
+    },
+    {
+        "cy": "Cristion"
+    },
+    {
+        "cy": "Cristion Uniongred"
+    },
+    {
+        "cy": "Eglwys yng Nghymru"
+    },
+    {
+        "cy": "Eglwys Crist"
+    },
+    {
+        "cy": "Eglwys Loegr"
+    },
+    {
+        "cy": "Eglwys Duw"
+    },
+    {
+        "cy": "Eglwys yr Alban"
+    },
+    {
+        "cy": "Coptig Uniongred"
+    },
+    {
+        "cy": "Dëist"
+    },
+    {
+        "cy": "Derwydd"
+    },
+    {
+        "cy": "Efengylaidd"
+    },
+    {
+        "cy": "Gnostig"
+    },
+    {
+        "cy": "Uniongred Groegaidd"
+    },
+    {
+        "cy": "Hare Krishna"
+    },
+    {
+        "cy": "Hindŵ"
+    },
+    {
+        "cy": "Holistaidd"
+    },
+    {
+        "cy": "Annibynnol"
+    },
+    {
+        "cy": "Jain"
+    },
+    {
+        "cy": "Tyst Jehovah"
+    },
+    {
+        "cy": "Iddewig"
+    },
+    {
+        "cy": "Kirat"
+    },
+    {
+        "cy": "Saint y Dyddiau Diwethaf"
+    },
+    {
+        "cy": "Lutheriad"
+    },
+    {
+        "cy": "Methodist"
+    },
+    {
+        "cy": "Mormon"
+    },
+    {
+        "cy": "Mwslim/Moslem"
+    },
+    {
+        "cy": "Dim Crefydd"
+    },
+    {
+        "cy": "Pagan"
+    },
+    {
+        "cy": "Pantheist"
+    },
+    {
+        "cy": "Pentecostiad"
+    },
+    {
+        "cy": "Presbyteriad"
+    },
+    {
+        "cy": "Protestant"
+    },
+    {
+        "cy": "Crynwr/Crynwraig"
+    },
+    {
+        "cy": "Rastaffariad"
+    },
+    {
+        "cy": "Ravidassia"
+    },
+    {
+        "cy": "Catholig Eglwys Rufain/Pabydd Eglwys Rufain/Pabyddes Eglwys Rufain"
+    },
+    {
+        "cy": "Uniongred Rwsiaidd"
+    },
+    {
+        "cy": "Byddin yr Iachawdwriaeth"
+    },
+    {
+        "cy": "Satanydd"
+    },
+    {
+        "cy": "Seientoleg"
+    },
+    {
+        "cy": "Uniongred Serbaidd"
+    },
+    {
+        "cy": "Adfentydd y Seithfed Dydd"
+    },
+    {
+        "cy": "Shinto"
+    },
+    {
+        "cy": "Sikh"
+    },
+    {
+        "cy": "Ysbrydol"
+    },
+    {
+        "cy": "Ysbrydegydd"
+    },
+    {
+        "cy": "Taöydd"
+    },
+    {
+        "cy": "Theistiad"
+    },
+    {
+        "cy": "Undodwr"
+    },
+    {
+        "cy": "Bedyddiwr Cymreig/Bedyddwraig Gymreig"
+    },
+    {
+        "cy": "Wiccan"
+    },
+    {
+        "cy": "Yazidi"
+    },
+    {
+        "cy": "Zoroastriad"
+    }
 ]

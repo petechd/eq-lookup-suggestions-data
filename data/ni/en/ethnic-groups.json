@@ -1,44 +1,128 @@
 [
-    "African",
-    "Arab",
-    "Baltic States",
-    "Bangladeshi",
-    "Black African",
-    "Black Caribbean ",
-    "Black Other",
-    "Brazilian",
-    "British",
-    "Caribbean",
-    "Chinese",
-    "English",
-    "Filipino ",
-    "Indian",
-    "Indonesian",
-    "Iranian",
-    "Irish",
-    "Irish Traveller ",
-    "Japanese",
-    "Jewish",
-    "Korean",
-    "Kurdish",
-    "Latin/South American",
-    "Malaysian",
-    "Melanesia",
-    "Micronesia",
-    "Muslim",
-    "Nepalese",
-    "North African",
-    "Northern Irish",
-    "Pakistani",
-    "Polish",
-    "Polynesia",
-    "Roma",
-    "Scottish",
-    "Sri Lankan",
-    "Thai",
-    "Turkish",
-    "Ulster-Scot",
-    "Vietnamese",
-    "Welsh",
-    "White"
+    {
+        "en": "African"
+    },
+    {
+        "en": "Arab"
+    },
+    {
+        "en": "Baltic States"
+    },
+    {
+        "en": "Bangladeshi"
+    },
+    {
+        "en": "Black African"
+    },
+    {
+        "en": "Black Caribbean "
+    },
+    {
+        "en": "Black Other"
+    },
+    {
+        "en": "Brazilian"
+    },
+    {
+        "en": "British"
+    },
+    {
+        "en": "Caribbean"
+    },
+    {
+        "en": "Chinese"
+    },
+    {
+        "en": "English"
+    },
+    {
+        "en": "Filipino "
+    },
+    {
+        "en": "Indian"
+    },
+    {
+        "en": "Indonesian"
+    },
+    {
+        "en": "Iranian"
+    },
+    {
+        "en": "Irish"
+    },
+    {
+        "en": "Irish Traveller "
+    },
+    {
+        "en": "Japanese"
+    },
+    {
+        "en": "Jewish"
+    },
+    {
+        "en": "Korean"
+    },
+    {
+        "en": "Kurdish"
+    },
+    {
+        "en": "Latin/South American"
+    },
+    {
+        "en": "Malaysian"
+    },
+    {
+        "en": "Melanesia"
+    },
+    {
+        "en": "Micronesia"
+    },
+    {
+        "en": "Muslim"
+    },
+    {
+        "en": "Nepalese"
+    },
+    {
+        "en": "North African"
+    },
+    {
+        "en": "Northern Irish"
+    },
+    {
+        "en": "Pakistani"
+    },
+    {
+        "en": "Polish"
+    },
+    {
+        "en": "Polynesia"
+    },
+    {
+        "en": "Roma"
+    },
+    {
+        "en": "Scottish"
+    },
+    {
+        "en": "Sri Lankan"
+    },
+    {
+        "en": "Thai"
+    },
+    {
+        "en": "Turkish"
+    },
+    {
+        "en": "Ulster-Scot"
+    },
+    {
+        "en": "Vietnamese"
+    },
+    {
+        "en": "Welsh"
+    },
+    {
+        "en": "White"
+    }
 ]

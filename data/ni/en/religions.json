@@ -1,107 +1,317 @@
 [
-    "Agnostic",
-    "Ahmadi Muslim",
-    "Alevi",
-    "Anglican",
-    "Apostolic Church",
-    "Bahai",
-    "Baptist",
-    "Born Again Christian",
-    "Brethren",
-    "Buddhist",
-    "Catholic",
-    "Charismatic Church",
-    "Christadelphian",
-    "Christian",
-    "Christian Fellowship",
-    "Christian Fellowship Church",
-    "Christian Orthodox",
-    "Christian Scientist",
-    "Church in Wales",
-    "Church of Christ",
-    "Church of England",
-    "Church of God",
-    "Church of Ireland ",
-    "Church Of Jesus Christ Of Latter Day Saints ",
-    "Church of Scotland",
-    "Church Of The Nazarene",
-    "City Mission",
-    "Congregational Church",
-    "Coptic Orthodox",
-    "Deist",
-    "Dutch Reformed Church",
-    "Eastern Orthodox Church",
-    "Elim Pentecostal Church",
-    "Episcopalian",
-    "Evangelical",
-    "Evangelical Presbyterian Church",
-    "Free Church Of Scotland",
-    "Free Evangelical Church",
-    "Free Methodist",
-    "Free Presbyterian",
-    "Free Presbyterian Church Of Scotland",
-    "Gnostic",
-    "Greek Orthodox",
-    "Hare Krishna",
-    "Hindu",
-    "Holistic",
-    "House Church",
-    "Independent",
-    "Independent Evangelist",
-    "Independent Methodist",
-    "Interdenominational",
-    "International Society For Krishna Consciousness",
-    "Islam ",
-    "Jain",
-    "Jehovah's Witness",
-    "Jewish",
-    "Kirat",
-    "Latter Day Saint",
-    "Lutheran",
-    "Methodist",
-    "Methodist Church in Ireland",
-    "Metropolitan Church",
-    "Mixed Catholic/Protestant",
-    "Mixed Religion",
-    "Moravian",
-    "Mormon",
-    "Muslim",
-    "No Religion",
-    "Non Denominational",
-    "Non-Subscribing Presbyterian",
-    "Orthodox Church",
-    "Pantheism",
-    "Pantheist",
-    "Pentecostal",
-    "Presbyterian",
-    "Presbyterian Church in Ireland ",
-    "Protestant",
-    "Protestant (Mixed)",
-    "Quaker",
-    "Rastafarian",
-    "Ravidassia",
-    "Reformed",
-    "Reformed Presbyterian",
-    "Religious Society Of Friends ",
-    "Roman Catholic",
-    "Romanian Orthodox Church",
-    "Russian Orthodox Church",
-    "Salvation Army",
-    "Scottish Presbyterian",
-    "Serbian Orthodox",
-    "Seventh Day Adventist",
-    "Shinto",
-    "Sikh",
-    "Spiritual",
-    "Spiritualist",
-    "Taoist",
-    "Theist",
-    "Unitarian",
-    "United Reformed Church",
-    "Welsh Baptist",
-    "Whitewell Metropolitan Tabernacle",
-    "Wiccan",
-    "Yazidi",
-    "Yezidi",
-    "Zoroastrian"
+    {
+        "en": "Agnostic"
+    },
+    {
+        "en": "Ahmadi Muslim"
+    },
+    {
+        "en": "Alevi"
+    },
+    {
+        "en": "Anglican"
+    },
+    {
+        "en": "Apostolic Church"
+    },
+    {
+        "en": "Bahai"
+    },
+    {
+        "en": "Baptist"
+    },
+    {
+        "en": "Born Again Christian"
+    },
+    {
+        "en": "Brethren"
+    },
+    {
+        "en": "Buddhist"
+    },
+    {
+        "en": "Catholic"
+    },
+    {
+        "en": "Charismatic Church"
+    },
+    {
+        "en": "Christadelphian"
+    },
+    {
+        "en": "Christian"
+    },
+    {
+        "en": "Christian Fellowship"
+    },
+    {
+        "en": "Christian Fellowship Church"
+    },
+    {
+        "en": "Christian Orthodox"
+    },
+    {
+        "en": "Christian Scientist"
+    },
+    {
+        "en": "Church in Wales"
+    },
+    {
+        "en": "Church of Christ"
+    },
+    {
+        "en": "Church of England"
+    },
+    {
+        "en": "Church of God"
+    },
+    {
+        "en": "Church of Ireland "
+    },
+    {
+        "en": "Church Of Jesus Christ Of Latter Day Saints "
+    },
+    {
+        "en": "Church of Scotland"
+    },
+    {
+        "en": "Church Of The Nazarene"
+    },
+    {
+        "en": "City Mission"
+    },
+    {
+        "en": "Congregational Church"
+    },
+    {
+        "en": "Coptic Orthodox"
+    },
+    {
+        "en": "Deist"
+    },
+    {
+        "en": "Dutch Reformed Church"
+    },
+    {
+        "en": "Eastern Orthodox Church"
+    },
+    {
+        "en": "Elim Pentecostal Church"
+    },
+    {
+        "en": "Episcopalian"
+    },
+    {
+        "en": "Evangelical"
+    },
+    {
+        "en": "Evangelical Presbyterian Church"
+    },
+    {
+        "en": "Free Church Of Scotland"
+    },
+    {
+        "en": "Free Evangelical Church"
+    },
+    {
+        "en": "Free Methodist"
+    },
+    {
+        "en": "Free Presbyterian"
+    },
+    {
+        "en": "Free Presbyterian Church Of Scotland"
+    },
+    {
+        "en": "Gnostic"
+    },
+    {
+        "en": "Greek Orthodox"
+    },
+    {
+        "en": "Hare Krishna"
+    },
+    {
+        "en": "Hindu"
+    },
+    {
+        "en": "Holistic"
+    },
+    {
+        "en": "House Church"
+    },
+    {
+        "en": "Independent"
+    },
+    {
+        "en": "Independent Evangelist"
+    },
+    {
+        "en": "Independent Methodist"
+    },
+    {
+        "en": "Interdenominational"
+    },
+    {
+        "en": "International Society For Krishna Consciousness"
+    },
+    {
+        "en": "Islam "
+    },
+    {
+        "en": "Jain"
+    },
+    {
+        "en": "Jehovah's Witness"
+    },
+    {
+        "en": "Jewish"
+    },
+    {
+        "en": "Kirat"
+    },
+    {
+        "en": "Latter Day Saint"
+    },
+    {
+        "en": "Lutheran"
+    },
+    {
+        "en": "Methodist"
+    },
+    {
+        "en": "Methodist Church in Ireland"
+    },
+    {
+        "en": "Metropolitan Church"
+    },
+    {
+        "en": "Mixed Catholic/Protestant"
+    },
+    {
+        "en": "Mixed Religion"
+    },
+    {
+        "en": "Moravian"
+    },
+    {
+        "en": "Mormon"
+    },
+    {
+        "en": "Muslim"
+    },
+    {
+        "en": "No Religion"
+    },
+    {
+        "en": "Non Denominational"
+    },
+    {
+        "en": "Non-Subscribing Presbyterian"
+    },
+    {
+        "en": "Orthodox Church"
+    },
+    {
+        "en": "Pantheism"
+    },
+    {
+        "en": "Pantheist"
+    },
+    {
+        "en": "Pentecostal"
+    },
+    {
+        "en": "Presbyterian"
+    },
+    {
+        "en": "Presbyterian Church in Ireland "
+    },
+    {
+        "en": "Protestant"
+    },
+    {
+        "en": "Protestant (Mixed)"
+    },
+    {
+        "en": "Quaker"
+    },
+    {
+        "en": "Rastafarian"
+    },
+    {
+        "en": "Ravidassia"
+    },
+    {
+        "en": "Reformed"
+    },
+    {
+        "en": "Reformed Presbyterian"
+    },
+    {
+        "en": "Religious Society Of Friends "
+    },
+    {
+        "en": "Roman Catholic"
+    },
+    {
+        "en": "Romanian Orthodox Church"
+    },
+    {
+        "en": "Russian Orthodox Church"
+    },
+    {
+        "en": "Salvation Army"
+    },
+    {
+        "en": "Scottish Presbyterian"
+    },
+    {
+        "en": "Serbian Orthodox"
+    },
+    {
+        "en": "Seventh Day Adventist"
+    },
+    {
+        "en": "Shinto"
+    },
+    {
+        "en": "Sikh"
+    },
+    {
+        "en": "Spiritual"
+    },
+    {
+        "en": "Spiritualist"
+    },
+    {
+        "en": "Taoist"
+    },
+    {
+        "en": "Theist"
+    },
+    {
+        "en": "Unitarian"
+    },
+    {
+        "en": "United Reformed Church"
+    },
+    {
+        "en": "Welsh Baptist"
+    },
+    {
+        "en": "Whitewell Metropolitan Tabernacle"
+    },
+    {
+        "en": "Wiccan"
+    },
+    {
+        "en": "Yazidi"
+    },
+    {
+        "en": "Yezidi"
+    },
+    {
+        "en": "Zoroastrian"
+    }
 ]

@@ -1,67 +1,197 @@
 [
-    "Agnostic",
-    "Ahmadi Muslim",
-    "Alevi",
-    "Anglican",
-    "Atheist",
-    "Bahai",
-    "Baptist",
-    "Born Again Christian",
-    "Buddhist",
-    "Catholic",
-    "Chapel",
-    "Christadelphian",
-    "Christian",
-    "Christian Orthodox",
-    "Church in Wales",
-    "Church of Christ",
-    "Church of England",
-    "Church of God",
-    "Church of Scotland",
-    "Coptic Orthodox",
-    "Deist",
-    "Druid",
-    "Evangelical",
-    "Gnostic",
-    "Greek Orthodox",
-    "Hare Krishna",
-    "Hindu",
-    "Holistic",
-    "Independent",
-    "Jain",
-    "Jehovah's Witness",
-    "Jewish",
-    "Kirat",
-    "Latter Day Saint",
-    "Lutheran",
-    "Methodist",
-    "Mormon",
-    "Muslim",
-    "No Religion",
-    "Pagan",
-    "Pantheist",
-    "Pentecostal",
-    "Presbyterian",
-    "Protestant",
-    "Quaker",
-    "Rastafarian",
-    "Ravidassia",
-    "Roman Catholic",
-    "Russian Orthodox",
-    "Salvation Army",
-    "Satanist",
-    "Scientology",
-    "Serbian Orthodox",
-    "Seventh Day Adventist",
-    "Shinto",
-    "Sikh",
-    "Spiritual",
-    "Spiritualist",
-    "Taoist",
-    "Theist",
-    "Unitarian",
-    "Welsh Baptist",
-    "Wiccan",
-    "Yazidi",
-    "Zoroastrian"
+    {
+        "en": "Agnostic"
+    },
+    {
+        "en": "Ahmadi Muslim"
+    },
+    {
+        "en": "Alevi"
+    },
+    {
+        "en": "Anglican"
+    },
+    {
+        "en": "Atheist"
+    },
+    {
+        "en": "Bahai"
+    },
+    {
+        "en": "Baptist"
+    },
+    {
+        "en": "Born Again Christian"
+    },
+    {
+        "en": "Buddhist"
+    },
+    {
+        "en": "Catholic"
+    },
+    {
+        "en": "Chapel"
+    },
+    {
+        "en": "Christadelphian"
+    },
+    {
+        "en": "Christian"
+    },
+    {
+        "en": "Christian Orthodox"
+    },
+    {
+        "en": "Church in Wales"
+    },
+    {
+        "en": "Church of Christ"
+    },
+    {
+        "en": "Church of England"
+    },
+    {
+        "en": "Church of God"
+    },
+    {
+        "en": "Church of Scotland"
+    },
+    {
+        "en": "Coptic Orthodox"
+    },
+    {
+        "en": "Deist"
+    },
+    {
+        "en": "Druid"
+    },
+    {
+        "en": "Evangelical"
+    },
+    {
+        "en": "Gnostic"
+    },
+    {
+        "en": "Greek Orthodox"
+    },
+    {
+        "en": "Hare Krishna"
+    },
+    {
+        "en": "Hindu"
+    },
+    {
+        "en": "Holistic"
+    },
+    {
+        "en": "Independent"
+    },
+    {
+        "en": "Jain"
+    },
+    {
+        "en": "Jehovah's Witness"
+    },
+    {
+        "en": "Jewish"
+    },
+    {
+        "en": "Kirat"
+    },
+    {
+        "en": "Latter Day Saint"
+    },
+    {
+        "en": "Lutheran"
+    },
+    {
+        "en": "Methodist"
+    },
+    {
+        "en": "Mormon"
+    },
+    {
+        "en": "Muslim"
+    },
+    {
+        "en": "No Religion"
+    },
+    {
+        "en": "Pagan"
+    },
+    {
+        "en": "Pantheist"
+    },
+    {
+        "en": "Pentecostal"
+    },
+    {
+        "en": "Presbyterian"
+    },
+    {
+        "en": "Protestant"
+    },
+    {
+        "en": "Quaker"
+    },
+    {
+        "en": "Rastafarian"
+    },
+    {
+        "en": "Ravidassia"
+    },
+    {
+        "en": "Roman Catholic"
+    },
+    {
+        "en": "Russian Orthodox"
+    },
+    {
+        "en": "Salvation Army"
+    },
+    {
+        "en": "Satanist"
+    },
+    {
+        "en": "Scientology"
+    },
+    {
+        "en": "Serbian Orthodox"
+    },
+    {
+        "en": "Seventh Day Adventist"
+    },
+    {
+        "en": "Shinto"
+    },
+    {
+        "en": "Sikh"
+    },
+    {
+        "en": "Spiritual"
+    },
+    {
+        "en": "Spiritualist"
+    },
+    {
+        "en": "Taoist"
+    },
+    {
+        "en": "Theist"
+    },
+    {
+        "en": "Unitarian"
+    },
+    {
+        "en": "Welsh Baptist"
+    },
+    {
+        "en": "Wiccan"
+    },
+    {
+        "en": "Yazidi"
+    },
+    {
+        "en": "Zoroastrian"
+    }
 ]

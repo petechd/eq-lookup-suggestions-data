@@ -34,7 +34,7 @@ def generate_json_files():
 
                     with open(source_file_location, newline='') as csv_file:
                         for row in csv.DictReader(csv_file, fieldnames=['term']):
-                            json_data.append(row.get('term'))
+                            json_data.append({language_directory_name: row.get('term')})
                     try:
                         with open(output_file_location, 'w', encoding='utf8') as f:
                             json.dump(json_data, f, indent=4, ensure_ascii=False)

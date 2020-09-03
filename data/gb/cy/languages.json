@@ -1,175 +1,521 @@
 [
-    "Abkhazeg",
-    "Afar",
-    "Afrikaans",
-    "Albanieg",
-    "Amhareg",
-    "Arabeg",
-    "Aragoneg",
-    "Armeneg",
-    "Assameg",
-    "Aymara",
-    "Azerbaijaneg",
-    "Bambara",
-    "Bashkir",
-    "Basgeg",
-    "Belarwseg",
-    "Bengaleg neu Bangla",
-    "Ieithoedd Bihari",
-    "Bislama",
-    "Bosnieg",
-    "Llydaweg/Brezhoneg",
-    "Iaith Arwyddion Prydain",
-    "Bwlgareg",
-    "Burmaneg/Byrmaneg",
-    "Cantoneg",
-    "Castileg",
-    "Catalaneg",
-    "Chechen",
-    "Chewa",
-    "Chichewa",
-    "Chineeg/Tsieineeg",
-    "Chuvash",
-    "Cernyweg/Kernowek",
-    "Crïeg",
-    "Croateg",
-    "Cymraeg",
-    "Tsieceg",
-    "Daneg",
-    "Dari",
-    "Dhivehi",
-    "Iseldireg",
-    "Dzongkha",
-    "Saesneg",
-    "Estoneg",
-    "Ewe",
-    "Ffaröeg",
-    "Ffijïeg",
-    "Ffilipineg",
-    "Ffinneg",
-    "Fflemineg",
-    "Ffrangeg",
-    "Fulah",
-    "Gaeleg/Gaelige",
-    "Ganda",
-    "Georgeg",
-    "Almaeneg",
-    "Gikuyu",
-    "Groeg",
-    "Glasynyseg",
-    "Guarani/Gwarani",
-    "Gujarati/Gwjarati",
-    "Haiteg",
-    "Creoliaith Haiti",
-    "Hausa/Hawsa",
-    "Hebraeg",
-    "Herero",
-    "Hindi",
-    "Hwngareg",
-    "Islandeg",
-    "Igbo",
-    "Indoneseg",
-    "Gwyddeleg",
-    "Eidaleg",
-    "Japaneeg/Siapaneeg",
-    "Javaneg/Jafaneg",
-    "Kannada/Canareg",
-    "Kanuri",
-    "Kashmireg/Cashmireg",
-    "Kazakh",
-    "Kikuyu",
-    "Kinyarwanda",
-    "Komi",
-    "Korëeg/Corëeg",
-    "Kurdeg/Cwrdeg",
-    "Kwanyama",
-    "Kyrgyz",
-    "Laoseg",
-    "Latfieg",
-    "Letzeburgesch",
-    "Lingala",
-    "Lithwaneg",
-    "Lwcsembwrgeg",
-    "Macedoneg",
-    "Malagasi",
-    "Maleieg",
-    "Malaialam",
-    "Iaith Maldives",
-    "Malteg",
-    "Mandarin",
-    "Manaweg",
-    "Maori",
-    "Marati",
-    "Mirpuri",
-    "Moldofeg",
-    "Mongoleg",
-    "Navajo",
-    "Nepaleg",
-    "Ndebele Gogleddol",
-    "Norwyeg",
-    "Norwyeg (Bokmål)",
-    "Norwyedg (Nynorsk)",
-    "Nyanja",
-    "Oriya",
-    "Oromo",
-    "Pwnjabeg",
-    "Pashto",
-    "Perseg neu Ffarsi",
-    "Pwyleg",
-    "Portiwgaleg",
-    "Punjabeg",
-    "Pushto",
-    "Quechua",
-    "Romaneg/Rwmaneg",
-    "Romansh",
-    "Rundi",
-    "Rwseg",
-    "Samöeg",
-    "Sango",
-    "Gaeleg yr Alban/Gàidhlig",
-    "Serbeg",
-    "Shona",
-    "Sindhi",
-    "Sinhala",
-    "Slofaceg",
-    "Slofeneg",
-    "Somalieg",
-    "Sotho Deheuol",
-    "Ndebele Deheuol",
-    "Sbaeneg",
-    "Sundaneg/Swndaneg",
-    "Swahili",
-    "Swati",
-    "Swedeg",
-    "Sylheti",
-    "Tagalog",
-    "Tahitïeg",
-    "Tajik",
-    "Tamil",
-    "Tatar",
-    "Telugu/Telwgw",
-    "Thai",
-    "Tibeteg",
-    "Tigrinya",
-    "Tonga (Ynysoedd Tonga)",
-    "Tsonga",
-    "Tswana",
-    "Twrceg/Tyrceg",
-    "Turkmeneg/Tyrcmeneg",
-    "Twi",
-    "Uighur",
-    "Ukreineg/Wcreineg",
-    "Urdu/Wrdw",
-    "Uyghur",
-    "Uzbek",
-    "Venda",
-    "Vietnameg/Fietnameg",
-    "Walwneg",
-    "Cymraeg",
-    "Woloff",
-    "Xhosa",
-    "Yiddeg/Iddew-Almaeneg",
-    "Yoruba/Iorwba",
-    "Zhuang",
-    "Zulu/Zwlw"
+    {
+        "cy": "Abkhazeg"
+    },
+    {
+        "cy": "Afar"
+    },
+    {
+        "cy": "Afrikaans"
+    },
+    {
+        "cy": "Albanieg"
+    },
+    {
+        "cy": "Amhareg"
+    },
+    {
+        "cy": "Arabeg"
+    },
+    {
+        "cy": "Aragoneg"
+    },
+    {
+        "cy": "Armeneg"
+    },
+    {
+        "cy": "Assameg"
+    },
+    {
+        "cy": "Aymara"
+    },
+    {
+        "cy": "Azerbaijaneg"
+    },
+    {
+        "cy": "Bambara"
+    },
+    {
+        "cy": "Bashkir"
+    },
+    {
+        "cy": "Basgeg"
+    },
+    {
+        "cy": "Belarwseg"
+    },
+    {
+        "cy": "Bengaleg neu Bangla"
+    },
+    {
+        "cy": "Ieithoedd Bihari"
+    },
+    {
+        "cy": "Bislama"
+    },
+    {
+        "cy": "Bosnieg"
+    },
+    {
+        "cy": "Llydaweg/Brezhoneg"
+    },
+    {
+        "cy": "Iaith Arwyddion Prydain"
+    },
+    {
+        "cy": "Bwlgareg"
+    },
+    {
+        "cy": "Burmaneg/Byrmaneg"
+    },
+    {
+        "cy": "Cantoneg"
+    },
+    {
+        "cy": "Castileg"
+    },
+    {
+        "cy": "Catalaneg"
+    },
+    {
+        "cy": "Chechen"
+    },
+    {
+        "cy": "Chewa"
+    },
+    {
+        "cy": "Chichewa"
+    },
+    {
+        "cy": "Chineeg/Tsieineeg"
+    },
+    {
+        "cy": "Chuvash"
+    },
+    {
+        "cy": "Cernyweg/Kernowek"
+    },
+    {
+        "cy": "Crïeg"
+    },
+    {
+        "cy": "Croateg"
+    },
+    {
+        "cy": "Cymraeg"
+    },
+    {
+        "cy": "Tsieceg"
+    },
+    {
+        "cy": "Daneg"
+    },
+    {
+        "cy": "Dari"
+    },
+    {
+        "cy": "Dhivehi"
+    },
+    {
+        "cy": "Iseldireg"
+    },
+    {
+        "cy": "Dzongkha"
+    },
+    {
+        "cy": "Saesneg"
+    },
+    {
+        "cy": "Estoneg"
+    },
+    {
+        "cy": "Ewe"
+    },
+    {
+        "cy": "Ffaröeg"
+    },
+    {
+        "cy": "Ffijïeg"
+    },
+    {
+        "cy": "Ffilipineg"
+    },
+    {
+        "cy": "Ffinneg"
+    },
+    {
+        "cy": "Fflemineg"
+    },
+    {
+        "cy": "Ffrangeg"
+    },
+    {
+        "cy": "Fulah"
+    },
+    {
+        "cy": "Gaeleg/Gaelige"
+    },
+    {
+        "cy": "Ganda"
+    },
+    {
+        "cy": "Georgeg"
+    },
+    {
+        "cy": "Almaeneg"
+    },
+    {
+        "cy": "Gikuyu"
+    },
+    {
+        "cy": "Groeg"
+    },
+    {
+        "cy": "Glasynyseg"
+    },
+    {
+        "cy": "Guarani/Gwarani"
+    },
+    {
+        "cy": "Gujarati/Gwjarati"
+    },
+    {
+        "cy": "Haiteg"
+    },
+    {
+        "cy": "Creoliaith Haiti"
+    },
+    {
+        "cy": "Hausa/Hawsa"
+    },
+    {
+        "cy": "Hebraeg"
+    },
+    {
+        "cy": "Herero"
+    },
+    {
+        "cy": "Hindi"
+    },
+    {
+        "cy": "Hwngareg"
+    },
+    {
+        "cy": "Islandeg"
+    },
+    {
+        "cy": "Igbo"
+    },
+    {
+        "cy": "Indoneseg"
+    },
+    {
+        "cy": "Gwyddeleg"
+    },
+    {
+        "cy": "Eidaleg"
+    },
+    {
+        "cy": "Japaneeg/Siapaneeg"
+    },
+    {
+        "cy": "Javaneg/Jafaneg"
+    },
+    {
+        "cy": "Kannada/Canareg"
+    },
+    {
+        "cy": "Kanuri"
+    },
+    {
+        "cy": "Kashmireg/Cashmireg"
+    },
+    {
+        "cy": "Kazakh"
+    },
+    {
+        "cy": "Kikuyu"
+    },
+    {
+        "cy": "Kinyarwanda"
+    },
+    {
+        "cy": "Komi"
+    },
+    {
+        "cy": "Korëeg/Corëeg"
+    },
+    {
+        "cy": "Kurdeg/Cwrdeg"
+    },
+    {
+        "cy": "Kwanyama"
+    },
+    {
+        "cy": "Kyrgyz"
+    },
+    {
+        "cy": "Laoseg"
+    },
+    {
+        "cy": "Latfieg"
+    },
+    {
+        "cy": "Letzeburgesch"
+    },
+    {
+        "cy": "Lingala"
+    },
+    {
+        "cy": "Lithwaneg"
+    },
+    {
+        "cy": "Lwcsembwrgeg"
+    },
+    {
+        "cy": "Macedoneg"
+    },
+    {
+        "cy": "Malagasi"
+    },
+    {
+        "cy": "Maleieg"
+    },
+    {
+        "cy": "Malaialam"
+    },
+    {
+        "cy": "Iaith Maldives"
+    },
+    {
+        "cy": "Malteg"
+    },
+    {
+        "cy": "Mandarin"
+    },
+    {
+        "cy": "Manaweg"
+    },
+    {
+        "cy": "Maori"
+    },
+    {
+        "cy": "Marati"
+    },
+    {
+        "cy": "Mirpuri"
+    },
+    {
+        "cy": "Moldofeg"
+    },
+    {
+        "cy": "Mongoleg"
+    },
+    {
+        "cy": "Navajo"
+    },
+    {
+        "cy": "Nepaleg"
+    },
+    {
+        "cy": "Ndebele Gogleddol"
+    },
+    {
+        "cy": "Norwyeg"
+    },
+    {
+        "cy": "Norwyeg (Bokmål)"
+    },
+    {
+        "cy": "Norwyedg (Nynorsk)"
+    },
+    {
+        "cy": "Nyanja"
+    },
+    {
+        "cy": "Oriya"
+    },
+    {
+        "cy": "Oromo"
+    },
+    {
+        "cy": "Pwnjabeg"
+    },
+    {
+        "cy": "Pashto"
+    },
+    {
+        "cy": "Perseg neu Ffarsi"
+    },
+    {
+        "cy": "Pwyleg"
+    },
+    {
+        "cy": "Portiwgaleg"
+    },
+    {
+        "cy": "Punjabeg"
+    },
+    {
+        "cy": "Pushto"
+    },
+    {
+        "cy": "Quechua"
+    },
+    {
+        "cy": "Romaneg/Rwmaneg"
+    },
+    {
+        "cy": "Romansh"
+    },
+    {
+        "cy": "Rundi"
+    },
+    {
+        "cy": "Rwseg"
+    },
+    {
+        "cy": "Samöeg"
+    },
+    {
+        "cy": "Sango"
+    },
+    {
+        "cy": "Gaeleg yr Alban/Gàidhlig"
+    },
+    {
+        "cy": "Serbeg"
+    },
+    {
+        "cy": "Shona"
+    },
+    {
+        "cy": "Sindhi"
+    },
+    {
+        "cy": "Sinhala"
+    },
+    {
+        "cy": "Slofaceg"
+    },
+    {
+        "cy": "Slofeneg"
+    },
+    {
+        "cy": "Somalieg"
+    },
+    {
+        "cy": "Sotho Deheuol"
+    },
+    {
+        "cy": "Ndebele Deheuol"
+    },
+    {
+        "cy": "Sbaeneg"
+    },
+    {
+        "cy": "Sundaneg/Swndaneg"
+    },
+    {
+        "cy": "Swahili"
+    },
+    {
+        "cy": "Swati"
+    },
+    {
+        "cy": "Swedeg"
+    },
+    {
+        "cy": "Sylheti"
+    },
+    {
+        "cy": "Tagalog"
+    },
+    {
+        "cy": "Tahitïeg"
+    },
+    {
+        "cy": "Tajik"
+    },
+    {
+        "cy": "Tamil"
+    },
+    {
+        "cy": "Tatar"
+    },
+    {
+        "cy": "Telugu/Telwgw"
+    },
+    {
+        "cy": "Thai"
+    },
+    {
+        "cy": "Tibeteg"
+    },
+    {
+        "cy": "Tigrinya"
+    },
+    {
+        "cy": "Tonga (Ynysoedd Tonga)"
+    },
+    {
+        "cy": "Tsonga"
+    },
+    {
+        "cy": "Tswana"
+    },
+    {
+        "cy": "Twrceg/Tyrceg"
+    },
+    {
+        "cy": "Turkmeneg/Tyrcmeneg"
+    },
+    {
+        "cy": "Twi"
+    },
+    {
+        "cy": "Uighur"
+    },
+    {
+        "cy": "Ukreineg/Wcreineg"
+    },
+    {
+        "cy": "Urdu/Wrdw"
+    },
+    {
+        "cy": "Uyghur"
+    },
+    {
+        "cy": "Uzbek"
+    },
+    {
+        "cy": "Venda"
+    },
+    {
+        "cy": "Vietnameg/Fietnameg"
+    },
+    {
+        "cy": "Walwneg"
+    },
+    {
+        "cy": "Cymraeg"
+    },
+    {
+        "cy": "Woloff"
+    },
+    {
+        "cy": "Xhosa"
+    },
+    {
+        "cy": "Yiddeg/Iddew-Almaeneg"
+    },
+    {
+        "cy": "Yoruba/Iorwba"
+    },
+    {
+        "cy": "Zhuang"
+    },
+    {
+        "cy": "Zulu/Zwlw"
+    }
 ]
