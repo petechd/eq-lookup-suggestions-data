@@ -1,177 +1,527 @@
 [
-    "Abkhazian",
-    "Afar",
-    "Afrikaans",
-    "Albanian",
-    "Amharic",
-    "Arabic",
-    "Aragonese",
-    "Armenian",
-    "Assamese",
-    "Aymara",
-    "Azerbaijani",
-    "Bambara",
-    "Bashkir",
-    "Basque",
-    "Belarusian",
-    "Bengali or Bangla",
-    "Bihari languages",
-    "Bislama",
-    "Bosnian",
-    "Breton",
-    "British Sign Language",
-    "Bulgarian",
-    "Burmese",
-    "Cantonese",
-    "Castilian",
-    "Catalan",
-    "Chechen",
-    "Chewa",
-    "Chichewa",
-    "Chinese",
-    "Chuvash",
-    "Cornish",
-    "Cree",
-    "Croatian",
-    "Cymraeg",
-    "Czech",
-    "Danish",
-    "Dari",
-    "Dhivehi",
-    "Dutch",
-    "Dzongkha",
-    "English",
-    "Estonian",
-    "Ewe",
-    "Faroese",
-    "Fijian",
-    "Filipino",
-    "Finnish",
-    "Flemish",
-    "French",
-    "Fulah",
-    "Gaelic",
-    "Ganda",
-    "Georgian",
-    "German",
-    "Gikuyu",
-    "Greek",
-    "Greenlandic",
-    "Guarani",
-    "Gujarati",
-    "Haitian",
-    "Haitian Creole",
-    "Hausa",
-    "Hebrew",
-    "Herero",
-    "Hindi",
-    "Hungarian",
-    "Icelandic",
-    "Igbo",
-    "Indonesian",
-    "Irish",
-    "Italian",
-    "Japanese",
-    "Javanese",
-    "Kannada",
-    "Kanuri",
-    "Kashmiri",
-    "Kazakh",
-    "Kikuyu",
-    "Kinyarwanda",
-    "Komi",
-    "Korean",
-    "Kurdish",
-    "Kwanyama",
-    "Kyrgyz",
-    "Lao",
-    "Latvian",
-    "Letzeburgesch",
-    "Lingala",
-    "Lithuanian",
-    "Luxembourgish",
-    "Macedonian",
-    "Malagasy",
-    "Malay",
-    "Malayalam",
-    "Maldivian",
-    "Maltese",
-    "Mandarin",
-    "Manx",
-    "Maori",
-    "Marathi",
-    "Mirpuri",
-    "Moldavian",
-    "Moldovan",
-    "Mongolian",
-    "Navajo",
-    "Nepali",
-    "North Ndebele",
-    "Norwegian",
-    "Norwegian Bokmål",
-    "Norwegian Nynorsk",
-    "Nyanja",
-    "Oriya",
-    "Oromo",
-    "Panjabi",
-    "Pashto",
-    "Persian or Farsi",
-    "Polish",
-    "Portuguese",
-    "Punjabi",
-    "Pushto",
-    "Quechua",
-    "Romanian",
-    "Romansh",
-    "Rundi",
-    "Russian",
-    "Samoan",
-    "Sango",
-    "Scottish Gaelic",
-    "Serbian",
-    "Shona",
-    "Sindhi",
-    "Sinhala",
-    "Sinhalese",
-    "Slovak",
-    "Slovenian",
-    "Somali",
-    "Southern Sotho",
-    "South Ndebele",
-    "Spanish",
-    "Sundanese",
-    "Swahili",
-    "Swati",
-    "Swedish",
-    "Sylheti",
-    "Tagalog",
-    "Tahitian",
-    "Tajik",
-    "Tamil",
-    "Tatar",
-    "Telugu",
-    "Thai",
-    "Tibetan",
-    "Tigrinya",
-    "Tonga (Tonga Islands)",
-    "Tsonga",
-    "Tswana",
-    "Turkish",
-    "Turkmen",
-    "Twi",
-    "Uighur",
-    "Ukrainian",
-    "Urdu",
-    "Uyghur",
-    "Uzbek",
-    "Venda",
-    "Vietnamese",
-    "Walloon",
-    "Welsh",
-    "Wolof",
-    "Xhosa",
-    "Yiddish",
-    "Yoruba",
-    "Zhuang",
-    "Zulu"
+    {
+        "en": "Abkhazian"
+    },
+    {
+        "en": "Afar"
+    },
+    {
+        "en": "Afrikaans"
+    },
+    {
+        "en": "Albanian"
+    },
+    {
+        "en": "Amharic"
+    },
+    {
+        "en": "Arabic"
+    },
+    {
+        "en": "Aragonese"
+    },
+    {
+        "en": "Armenian"
+    },
+    {
+        "en": "Assamese"
+    },
+    {
+        "en": "Aymara"
+    },
+    {
+        "en": "Azerbaijani"
+    },
+    {
+        "en": "Bambara"
+    },
+    {
+        "en": "Bashkir"
+    },
+    {
+        "en": "Basque"
+    },
+    {
+        "en": "Belarusian"
+    },
+    {
+        "en": "Bengali or Bangla"
+    },
+    {
+        "en": "Bihari languages"
+    },
+    {
+        "en": "Bislama"
+    },
+    {
+        "en": "Bosnian"
+    },
+    {
+        "en": "Breton"
+    },
+    {
+        "en": "British Sign Language"
+    },
+    {
+        "en": "Bulgarian"
+    },
+    {
+        "en": "Burmese"
+    },
+    {
+        "en": "Cantonese"
+    },
+    {
+        "en": "Castilian"
+    },
+    {
+        "en": "Catalan"
+    },
+    {
+        "en": "Chechen"
+    },
+    {
+        "en": "Chewa"
+    },
+    {
+        "en": "Chichewa"
+    },
+    {
+        "en": "Chinese"
+    },
+    {
+        "en": "Chuvash"
+    },
+    {
+        "en": "Cornish"
+    },
+    {
+        "en": "Cree"
+    },
+    {
+        "en": "Croatian"
+    },
+    {
+        "en": "Cymraeg"
+    },
+    {
+        "en": "Czech"
+    },
+    {
+        "en": "Danish"
+    },
+    {
+        "en": "Dari"
+    },
+    {
+        "en": "Dhivehi"
+    },
+    {
+        "en": "Dutch"
+    },
+    {
+        "en": "Dzongkha"
+    },
+    {
+        "en": "English"
+    },
+    {
+        "en": "Estonian"
+    },
+    {
+        "en": "Ewe"
+    },
+    {
+        "en": "Faroese"
+    },
+    {
+        "en": "Fijian"
+    },
+    {
+        "en": "Filipino"
+    },
+    {
+        "en": "Finnish"
+    },
+    {
+        "en": "Flemish"
+    },
+    {
+        "en": "French"
+    },
+    {
+        "en": "Fulah"
+    },
+    {
+        "en": "Gaelic"
+    },
+    {
+        "en": "Ganda"
+    },
+    {
+        "en": "Georgian"
+    },
+    {
+        "en": "German"
+    },
+    {
+        "en": "Gikuyu"
+    },
+    {
+        "en": "Greek"
+    },
+    {
+        "en": "Greenlandic"
+    },
+    {
+        "en": "Guarani"
+    },
+    {
+        "en": "Gujarati"
+    },
+    {
+        "en": "Haitian"
+    },
+    {
+        "en": "Haitian Creole"
+    },
+    {
+        "en": "Hausa"
+    },
+    {
+        "en": "Hebrew"
+    },
+    {
+        "en": "Herero"
+    },
+    {
+        "en": "Hindi"
+    },
+    {
+        "en": "Hungarian"
+    },
+    {
+        "en": "Icelandic"
+    },
+    {
+        "en": "Igbo"
+    },
+    {
+        "en": "Indonesian"
+    },
+    {
+        "en": "Irish"
+    },
+    {
+        "en": "Italian"
+    },
+    {
+        "en": "Japanese"
+    },
+    {
+        "en": "Javanese"
+    },
+    {
+        "en": "Kannada"
+    },
+    {
+        "en": "Kanuri"
+    },
+    {
+        "en": "Kashmiri"
+    },
+    {
+        "en": "Kazakh"
+    },
+    {
+        "en": "Kikuyu"
+    },
+    {
+        "en": "Kinyarwanda"
+    },
+    {
+        "en": "Komi"
+    },
+    {
+        "en": "Korean"
+    },
+    {
+        "en": "Kurdish"
+    },
+    {
+        "en": "Kwanyama"
+    },
+    {
+        "en": "Kyrgyz"
+    },
+    {
+        "en": "Lao"
+    },
+    {
+        "en": "Latvian"
+    },
+    {
+        "en": "Letzeburgesch"
+    },
+    {
+        "en": "Lingala"
+    },
+    {
+        "en": "Lithuanian"
+    },
+    {
+        "en": "Luxembourgish"
+    },
+    {
+        "en": "Macedonian"
+    },
+    {
+        "en": "Malagasy"
+    },
+    {
+        "en": "Malay"
+    },
+    {
+        "en": "Malayalam"
+    },
+    {
+        "en": "Maldivian"
+    },
+    {
+        "en": "Maltese"
+    },
+    {
+        "en": "Mandarin"
+    },
+    {
+        "en": "Manx"
+    },
+    {
+        "en": "Maori"
+    },
+    {
+        "en": "Marathi"
+    },
+    {
+        "en": "Mirpuri"
+    },
+    {
+        "en": "Moldavian"
+    },
+    {
+        "en": "Moldovan"
+    },
+    {
+        "en": "Mongolian"
+    },
+    {
+        "en": "Navajo"
+    },
+    {
+        "en": "Nepali"
+    },
+    {
+        "en": "North Ndebele"
+    },
+    {
+        "en": "Norwegian"
+    },
+    {
+        "en": "Norwegian Bokmål"
+    },
+    {
+        "en": "Norwegian Nynorsk"
+    },
+    {
+        "en": "Nyanja"
+    },
+    {
+        "en": "Oriya"
+    },
+    {
+        "en": "Oromo"
+    },
+    {
+        "en": "Panjabi"
+    },
+    {
+        "en": "Pashto"
+    },
+    {
+        "en": "Persian or Farsi"
+    },
+    {
+        "en": "Polish"
+    },
+    {
+        "en": "Portuguese"
+    },
+    {
+        "en": "Punjabi"
+    },
+    {
+        "en": "Pushto"
+    },
+    {
+        "en": "Quechua"
+    },
+    {
+        "en": "Romanian"
+    },
+    {
+        "en": "Romansh"
+    },
+    {
+        "en": "Rundi"
+    },
+    {
+        "en": "Russian"
+    },
+    {
+        "en": "Samoan"
+    },
+    {
+        "en": "Sango"
+    },
+    {
+        "en": "Scottish Gaelic"
+    },
+    {
+        "en": "Serbian"
+    },
+    {
+        "en": "Shona"
+    },
+    {
+        "en": "Sindhi"
+    },
+    {
+        "en": "Sinhala"
+    },
+    {
+        "en": "Sinhalese"
+    },
+    {
+        "en": "Slovak"
+    },
+    {
+        "en": "Slovenian"
+    },
+    {
+        "en": "Somali"
+    },
+    {
+        "en": "Southern Sotho"
+    },
+    {
+        "en": "South Ndebele"
+    },
+    {
+        "en": "Spanish"
+    },
+    {
+        "en": "Sundanese"
+    },
+    {
+        "en": "Swahili"
+    },
+    {
+        "en": "Swati"
+    },
+    {
+        "en": "Swedish"
+    },
+    {
+        "en": "Sylheti"
+    },
+    {
+        "en": "Tagalog"
+    },
+    {
+        "en": "Tahitian"
+    },
+    {
+        "en": "Tajik"
+    },
+    {
+        "en": "Tamil"
+    },
+    {
+        "en": "Tatar"
+    },
+    {
+        "en": "Telugu"
+    },
+    {
+        "en": "Thai"
+    },
+    {
+        "en": "Tibetan"
+    },
+    {
+        "en": "Tigrinya"
+    },
+    {
+        "en": "Tonga (Tonga Islands)"
+    },
+    {
+        "en": "Tsonga"
+    },
+    {
+        "en": "Tswana"
+    },
+    {
+        "en": "Turkish"
+    },
+    {
+        "en": "Turkmen"
+    },
+    {
+        "en": "Twi"
+    },
+    {
+        "en": "Uighur"
+    },
+    {
+        "en": "Ukrainian"
+    },
+    {
+        "en": "Urdu"
+    },
+    {
+        "en": "Uyghur"
+    },
+    {
+        "en": "Uzbek"
+    },
+    {
+        "en": "Venda"
+    },
+    {
+        "en": "Vietnamese"
+    },
+    {
+        "en": "Walloon"
+    },
+    {
+        "en": "Welsh"
+    },
+    {
+        "en": "Wolof"
+    },
+    {
+        "en": "Xhosa"
+    },
+    {
+        "en": "Yiddish"
+    },
+    {
+        "en": "Yoruba"
+    },
+    {
+        "en": "Zhuang"
+    },
+    {
+        "en": "Zulu"
+    }
 ]

@@ -1,183 +1,545 @@
 [
-    "Afghan",
-    "African",
-    "African American",
-    "African Asian",
-    "African Caribbean",
-    "Albanian",
-    "Algerian",
-    "American",
-    "Anglo Indian",
-    "Anglo Irish",
-    "Anglo Italian",
-    "Anglo Saxon",
-    "Arab",
-    "Argentinian",
-    "Armenian",
-    "Asian",
-    "Asian British",
-    "Asian English",
-    "Asian Northern Irish",
-    "Asian Scottish",
-    "Asian Welsh",
-    "Assyrian",
-    "Australian",
-    "Austrian",
-    "Baltic",
-    "Bangladeshi",
-    "Belarusian",
-    "Belgian",
-    "Berber",
-    "Black African",
-    "Black British",
-    "Black Caribbean",
-    "Black English",
-    "Black Northern Irish",
-    "Black Scottish",
-    "Black Welsh",
-    "Bosnian",
-    "Brazilian",
-    "British",
-    "British Indian",
-    "British Pakistani",
-    "Bulgarian",
-    "Burmese or Myanma",
-    "Cambodian",
-    "Canadian",
-    "Caribbean",
-    "Celtic",
-    "Central European",
-    "Chilean",
-    "Chinese",
-    "Colombian",
-    "Congolese",
-    "Cornish",
-    "Croatian",
-    "Cypriot",
-    "Czech",
-    "Danish",
-    "Dutch",
-    "East African",
-    "Eastern European",
-    "Eelam Tamil",
-    "Eritrean",
-    "Ethiopian",
-    "Egyptian",
-    "English",
-    "Estonian",
-    "Eurasian",
-    "European",
-    "Fijian",
-    "Filipina",
-    "Filipino",
-    "Finnish",
-    "French",
-    "Georgian",
-    "German",
-    "Ghanaian",
-    "Goan",
-    "Greek",
-    "Greek Cypriot",
-    "Gurkha",
-    "Guyanese",
-    "Gypsy",
-    "Hellenic",
-    "Hispanic",
-    "Hungarian",
-    "Icelandic",
-    "Indian",
-    "Indonesian",
-    "Iranian",
-    "Iraqi",
-    "Irish",
-    "Irish Traveller",
-    "Israeli",
-    "Italian",
-    "Jamaican",
-    "Japanese",
-    "Jewish",
-    "Kashmiri",
-    "Kazakh",
-    "Kenyan",
-    "Korean",
-    "Kosovan",
-    "Kurdish",
-    "Latin American",
-    "Latino",
-    "Latvian",
-    "Lebanese",
-    "Lithuanian",
-    "Macedonian",
-    "Malay",
-    "Malaysian",
-    "Maltese",
-    "Manx",
-    "Mauritian",
-    "Mediterranean",
-    "Mexican",
-    "Middle Eastern",
-    "Mongolian",
-    "Moroccan",
-    "Nepali",
-    "New Zealander",
-    "Nigerian (Nigeria)",
-    "Nigerien (Niger)",
-    "Nordic",
-    "North African",
-    "North American",
-    "Northern European",
-    "Northern Irish",
-    "Norwegian",
-    "Pakistani",
-    "Persian",
-    "Philippine",
-    "Polish",
-    "Portuguese",
-    "Punjabi",
-    "Roma",
-    "Romanian",
-    "Russian",
-    "São Toméan",
-    "Scandinavian",
-    "Scottish",
-    "Serbian",
-    "Showman",
-    "Showperson",
-    "Showwoman",
-    "Sikh",
-    "Sinhalese",
-    "Slavic",
-    "Slovakian",
-    "Slovenian",
-    "Somali",
-    "Somalilander",
-    "South African",
-    "South American",
-    "South East Asian",
-    "South Korean",
-    "Spanish",
-    "Sri Lankan",
-    "Swedish",
-    "Swiss",
-    "Taiwanese",
-    "Tamil",
-    "Tamil Eelam",
-    "Thai",
-    "Turkish",
-    "Turkish Cypriot",
-    "Ugandan",
-    "Ukrainian",
-    "Vietnamese",
-    "Welsh",
-    "Western European",
-    "White African",
-    "White British",
-    "White Caribbean",
-    "White English",
-    "White Northern Irish",
-    "White Scottish",
-    "White Welsh",
-    "Yemeni",
-    "Yorkshire",
-    "Zimbabwean"
+    {
+        "en": "Afghan"
+    },
+    {
+        "en": "African"
+    },
+    {
+        "en": "African American"
+    },
+    {
+        "en": "African Asian"
+    },
+    {
+        "en": "African Caribbean"
+    },
+    {
+        "en": "Albanian"
+    },
+    {
+        "en": "Algerian"
+    },
+    {
+        "en": "American"
+    },
+    {
+        "en": "Anglo Indian"
+    },
+    {
+        "en": "Anglo Irish"
+    },
+    {
+        "en": "Anglo Italian"
+    },
+    {
+        "en": "Anglo Saxon"
+    },
+    {
+        "en": "Arab"
+    },
+    {
+        "en": "Argentinian"
+    },
+    {
+        "en": "Armenian"
+    },
+    {
+        "en": "Asian"
+    },
+    {
+        "en": "Asian British"
+    },
+    {
+        "en": "Asian English"
+    },
+    {
+        "en": "Asian Northern Irish"
+    },
+    {
+        "en": "Asian Scottish"
+    },
+    {
+        "en": "Asian Welsh"
+    },
+    {
+        "en": "Assyrian"
+    },
+    {
+        "en": "Australian"
+    },
+    {
+        "en": "Austrian"
+    },
+    {
+        "en": "Baltic"
+    },
+    {
+        "en": "Bangladeshi"
+    },
+    {
+        "en": "Belarusian"
+    },
+    {
+        "en": "Belgian"
+    },
+    {
+        "en": "Berber"
+    },
+    {
+        "en": "Black African"
+    },
+    {
+        "en": "Black British"
+    },
+    {
+        "en": "Black Caribbean"
+    },
+    {
+        "en": "Black English"
+    },
+    {
+        "en": "Black Northern Irish"
+    },
+    {
+        "en": "Black Scottish"
+    },
+    {
+        "en": "Black Welsh"
+    },
+    {
+        "en": "Bosnian"
+    },
+    {
+        "en": "Brazilian"
+    },
+    {
+        "en": "British"
+    },
+    {
+        "en": "British Indian"
+    },
+    {
+        "en": "British Pakistani"
+    },
+    {
+        "en": "Bulgarian"
+    },
+    {
+        "en": "Burmese or Myanma"
+    },
+    {
+        "en": "Cambodian"
+    },
+    {
+        "en": "Canadian"
+    },
+    {
+        "en": "Caribbean"
+    },
+    {
+        "en": "Celtic"
+    },
+    {
+        "en": "Central European"
+    },
+    {
+        "en": "Chilean"
+    },
+    {
+        "en": "Chinese"
+    },
+    {
+        "en": "Colombian"
+    },
+    {
+        "en": "Congolese"
+    },
+    {
+        "en": "Cornish"
+    },
+    {
+        "en": "Croatian"
+    },
+    {
+        "en": "Cypriot"
+    },
+    {
+        "en": "Czech"
+    },
+    {
+        "en": "Danish"
+    },
+    {
+        "en": "Dutch"
+    },
+    {
+        "en": "East African"
+    },
+    {
+        "en": "Eastern European"
+    },
+    {
+        "en": "Eelam Tamil"
+    },
+    {
+        "en": "Eritrean"
+    },
+    {
+        "en": "Ethiopian"
+    },
+    {
+        "en": "Egyptian"
+    },
+    {
+        "en": "English"
+    },
+    {
+        "en": "Estonian"
+    },
+    {
+        "en": "Eurasian"
+    },
+    {
+        "en": "European"
+    },
+    {
+        "en": "Fijian"
+    },
+    {
+        "en": "Filipina"
+    },
+    {
+        "en": "Filipino"
+    },
+    {
+        "en": "Finnish"
+    },
+    {
+        "en": "French"
+    },
+    {
+        "en": "Georgian"
+    },
+    {
+        "en": "German"
+    },
+    {
+        "en": "Ghanaian"
+    },
+    {
+        "en": "Goan"
+    },
+    {
+        "en": "Greek"
+    },
+    {
+        "en": "Greek Cypriot"
+    },
+    {
+        "en": "Gurkha"
+    },
+    {
+        "en": "Guyanese"
+    },
+    {
+        "en": "Gypsy"
+    },
+    {
+        "en": "Hellenic"
+    },
+    {
+        "en": "Hispanic"
+    },
+    {
+        "en": "Hungarian"
+    },
+    {
+        "en": "Icelandic"
+    },
+    {
+        "en": "Indian"
+    },
+    {
+        "en": "Indonesian"
+    },
+    {
+        "en": "Iranian"
+    },
+    {
+        "en": "Iraqi"
+    },
+    {
+        "en": "Irish"
+    },
+    {
+        "en": "Irish Traveller"
+    },
+    {
+        "en": "Israeli"
+    },
+    {
+        "en": "Italian"
+    },
+    {
+        "en": "Jamaican"
+    },
+    {
+        "en": "Japanese"
+    },
+    {
+        "en": "Jewish"
+    },
+    {
+        "en": "Kashmiri"
+    },
+    {
+        "en": "Kazakh"
+    },
+    {
+        "en": "Kenyan"
+    },
+    {
+        "en": "Korean"
+    },
+    {
+        "en": "Kosovan"
+    },
+    {
+        "en": "Kurdish"
+    },
+    {
+        "en": "Latin American"
+    },
+    {
+        "en": "Latino"
+    },
+    {
+        "en": "Latvian"
+    },
+    {
+        "en": "Lebanese"
+    },
+    {
+        "en": "Lithuanian"
+    },
+    {
+        "en": "Macedonian"
+    },
+    {
+        "en": "Malay"
+    },
+    {
+        "en": "Malaysian"
+    },
+    {
+        "en": "Maltese"
+    },
+    {
+        "en": "Manx"
+    },
+    {
+        "en": "Mauritian"
+    },
+    {
+        "en": "Mediterranean"
+    },
+    {
+        "en": "Mexican"
+    },
+    {
+        "en": "Middle Eastern"
+    },
+    {
+        "en": "Mongolian"
+    },
+    {
+        "en": "Moroccan"
+    },
+    {
+        "en": "Nepali"
+    },
+    {
+        "en": "New Zealander"
+    },
+    {
+        "en": "Nigerian (Nigeria)"
+    },
+    {
+        "en": "Nigerien (Niger)"
+    },
+    {
+        "en": "Nordic"
+    },
+    {
+        "en": "North African"
+    },
+    {
+        "en": "North American"
+    },
+    {
+        "en": "Northern European"
+    },
+    {
+        "en": "Northern Irish"
+    },
+    {
+        "en": "Norwegian"
+    },
+    {
+        "en": "Pakistani"
+    },
+    {
+        "en": "Persian"
+    },
+    {
+        "en": "Philippine"
+    },
+    {
+        "en": "Polish"
+    },
+    {
+        "en": "Portuguese"
+    },
+    {
+        "en": "Punjabi"
+    },
+    {
+        "en": "Roma"
+    },
+    {
+        "en": "Romanian"
+    },
+    {
+        "en": "Russian"
+    },
+    {
+        "en": "São Toméan"
+    },
+    {
+        "en": "Scandinavian"
+    },
+    {
+        "en": "Scottish"
+    },
+    {
+        "en": "Serbian"
+    },
+    {
+        "en": "Showman"
+    },
+    {
+        "en": "Showperson"
+    },
+    {
+        "en": "Showwoman"
+    },
+    {
+        "en": "Sikh"
+    },
+    {
+        "en": "Sinhalese"
+    },
+    {
+        "en": "Slavic"
+    },
+    {
+        "en": "Slovakian"
+    },
+    {
+        "en": "Slovenian"
+    },
+    {
+        "en": "Somali"
+    },
+    {
+        "en": "Somalilander"
+    },
+    {
+        "en": "South African"
+    },
+    {
+        "en": "South American"
+    },
+    {
+        "en": "South East Asian"
+    },
+    {
+        "en": "South Korean"
+    },
+    {
+        "en": "Spanish"
+    },
+    {
+        "en": "Sri Lankan"
+    },
+    {
+        "en": "Swedish"
+    },
+    {
+        "en": "Swiss"
+    },
+    {
+        "en": "Taiwanese"
+    },
+    {
+        "en": "Tamil"
+    },
+    {
+        "en": "Tamil Eelam"
+    },
+    {
+        "en": "Thai"
+    },
+    {
+        "en": "Turkish"
+    },
+    {
+        "en": "Turkish Cypriot"
+    },
+    {
+        "en": "Ugandan"
+    },
+    {
+        "en": "Ukrainian"
+    },
+    {
+        "en": "Vietnamese"
+    },
+    {
+        "en": "Welsh"
+    },
+    {
+        "en": "Western European"
+    },
+    {
+        "en": "White African"
+    },
+    {
+        "en": "White British"
+    },
+    {
+        "en": "White Caribbean"
+    },
+    {
+        "en": "White English"
+    },
+    {
+        "en": "White Northern Irish"
+    },
+    {
+        "en": "White Scottish"
+    },
+    {
+        "en": "White Welsh"
+    },
+    {
+        "en": "Yemeni"
+    },
+    {
+        "en": "Yorkshire"
+    },
+    {
+        "en": "Zimbabwean"
+    }
 ]

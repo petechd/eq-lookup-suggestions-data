@@ -1,277 +1,827 @@
 [
-    "Afghaniad/Affganiad",
-    "Affricanwr/Affricanes",
-    "Un o Ynysoedd Åland",
-    "Albaniad",
-    "Algeriad",
-    "Americanwr/Americanes",
-    "Un o Ynysoedd America",
-    "Samoad Americanaidd",
-    "Andoriad",
-    "Angoliad",
-    "Anguilliad",
-    "Antigwad",
-    "Archentwr/Archentwraig/Un o'r Ariannin",
-    "Armeniad",
-    "Arubiad/Arwbiad",
-    "Asiad",
-    "Awstraliad",
-    "Awstriad",
-    "Azerbaijaniad",
-    "Bahamiad",
-    "Bahrainiad",
-    "Bangladeshiad",
-    "Barbadiad",
-    "Barbudiad",
-    "Un o St Barthélemy",
-    "Botswaniad",
-    "Belarwsiad",
-    "Belgiad",
-    "Beliziad",
-    "Beniniad",
-    "Bermudiad",
-    "Bhutaniad",
-    "Un o Guineau-Bissau",
-    "Bolifiad",
-    "Un o Bonaire",
-    "Un o Unol Daleithiau America",
-    "Sabiad",
-    "Bosniad",
-    "Brasiliad",
-    "Prydeiniwr/Prydeinwraig",
-    "Un o Brunei",
-    "Bwlgariad",
-    "Un o Burkina Faso",
-    "Burmaniad/Byrmaniad",
-    "Burundiad/Bwrwndiad",
-    "Cambodiad",
-    "Camerooniad",
-    "Canadiad",
-    "Un o'r Ynysoedd Dedwydd",
-    "Un o Cabo Verde",
-    "Un o Ynysoedd Cayman",
-    "Un o Ganolbarth Affrica/Un o Weriniaeth Canol Affrica",
-    "Chadiad",
-    "Un o Ynysoedd Chagos",
-    "Un o Ynysoedd y Sianel",
-    "Chilead/Tsilead",
-    "Chinead/Tsieinead",
-    "Un o Ynys y Nadolig",
-    "Un o Ynysoedd Cocos",
-    "Colombiad",
-    "Comoriad",
-    "Congoliad (Gweriniaeth Ddemocrataidd Congo)",
-    "Congoliad (Gweriniaeth Congo)",
-    "Un o Ynysoedd Cook",
-    "Cernywiad/Un o Gernyw",
-    "Un o Costa Rica",
-    "Croatiad",
-    "Ciwbaniad",
-    "Curaçaoiad",
-    "Cypriad",
-    "Tsieciad",
-    "Daniad",
-    "Djiboutiad",
-    "Dominiciad (Dominica)",
-    "Dominiciad (Gweriniaeth Dominica)",
-    "Iseldirwr/Iseldirwraig",
-    "Un o Ddwyrain Timor",
-    "Ecuadoriad/Ecwadoriad",
-    "Eifftiad",
-    "Un o'r Emiraethau Arabaidd Unedig",
-    "Sais/Saesnes",
-    "Un o Guinea Gyhydeddol",
-    "Eritread",
-    "Estoniad",
-    "Ethiopiad",
-    "Ewropead",
-    "Un o Ynysoedd Falkland (Malvinas)",
-    "Ffaroad",
-    "Ffijïad",
-    "Ffilipina",
-    "Ffilipino",
-    "Ffiniad",
-    "Ffrancwr/Ffrances",
-    "Un o Polynesia Ffrengig",
-    "Futuniad",
-    "Gaboniad",
-    "Gambiad",
-    "Georgiad",
-    "Almaenwr/Almaenes",
-    "Ghanaiad",
-    "Gibraltariad",
-    "Groegwr/Groeges",
-    "Cypriad Groegaidd",
-    "Un o Kalaallit Nunaat (Greenland)",
-    "Grenadiad",
-    "Guadeloupiad",
-    "Guamiad/Gwamiad",
-    "Guatemaliad/Gwatemaliad",
-    "Gaianiad",
-    "Un o Guinea (Guinea)",
-    "Un o Guinea (Guinea-Bissau)",
-    "Gyuaniad",
-    "Haitïad",
-    "Honduriad",
-    "Un o Hong Kong",
-    "Chinead Hong Kong/Tsieinead Hong Kong",
-    "Hwngariad",
-    "Un o Wlad yr Iâ",
-    "Un o Kiribati",
-    "Indiad",
-    "Indonesiad",
-    "Iraniad",
-    "Iraciad",
-    "Gwyddel/Gwyddeles",
-    "Israeliad",
-    "Eidalwr/Eidales",
-    "Un o'r Traeth Ifori",
-    "Jamaicad",
-    "Japanead/Siapanead",
-    "Un o Wlad yr Iorddonen",
-    "Kazakhstaniad",
-    "Kenyad/Ceniad",
-    "Kernewek",
-    "Kernouak",
-    "Kernowyon",
-    "Kernowek",
-    "Un o St Kitts",
-    "Koread/Coread",
-    "Kosoviad/Cosofiad",
-    "Kurdiad/Cwrdiad",
-    "Kuwaitiad/Coweitiad",
-    "Kyrgyzstaniad",
-    "Laosiad",
-    "Latfiad",
-    "Lebaniad/Libaniad",
-    "Lesothiad",
-    "Liberiad",
-    "Libiad",
-    "Liechtensteiniad",
-    "Lithwaniad",
-    "Luxembourgiad",
-    "Macaoiad",
-    "Macedoniad",
-    "Madagasgiad",
-    "Malawiad",
-    "Malaysiad",
-    "Maldiviad",
-    "Maliad",
-    "Melitiad",
-    "Manawiad",
-    "Maori",
-    "Un o Ynysoedd Marshall",
-    "Martiniquiad",
-    "Mauritaniad/Mawritaniad",
-    "Mauritiad/Mawritiad",
-    "Mexicanwr/Mecsicanwr/Mexicanes/Mecsicanes",
-    "Micronesiad",
-    "Miqueloniad",
-    "Moldofiad",
-    "Monaciad",
-    "Mongoliad",
-    "Montenegroad",
-    "Montserratiad",
-    "Morociad",
-    "Botswaniad",
-    "Mozambiquiad",
-    "Un o Myanmar (Burma)",
-    "Namibiad",
-    "Nauruad/Nawrŵad",
-    "Nepali",
-    "Un o Nevis",
-    "Un o Caledonia Newydd",
-    "Un o Seland Newydd",
-    "Nicaragwad",
-    "Nigeriad (Nigeria)",
-    "Nigeriad (Niger)",
-    "Un o Niue",
-    "Un o Vanuatu",
-    "Un o Ynys Norfolk",
-    "Un o Ogledd Korea/Un o Ogledd Corea",
-    "Gwyddel/Gwyddeles o Ogledd Iwerddon",
-    "Un o Ynysoedd Gogleddol Mariana",
-    "Norwyad",
-    "Omaniad",
-    "Pacistaniad",
-    "Palauiad",
-    "Palesteiniad",
-    "Panamaniad",
-    "Un o Papua Guinea Newydd",
-    "Paraguayad",
-    "Periwiad",
-    "Un o Ynysoedd Pitcairn",
-    "Pwyliad",
-    "Portiwgaliad",
-    "Puerto Riciad",
-    "Qatariad",
-    "Quisqueyad",
-    "Un o Réunion",
-    "Romaniad/Rwmaniad",
-    "Rwsiad",
-    "Rwandiad",
-    "Sahrawi",
-    "Un o St Helena",
-    "Un o Sint Maarten",
-    "Un o St Vincent",
-    "Un o Saint Martin",
-    "Un o St Pierre",
-    "Un o El Salvador",
-    "Un o San Marino",
-    "Samoad",
-    "Un o São Tomé a Príncipe",
-    "Un o Saudi Arabia/Un o Sawdi-Arabia",
-    "Albanwr/Albanes",
-    "Senegaliad",
-    "Serbiad",
-    "Un o Seychelles",
-    "Un o Sierra Leone",
-    "Singaporead",
-    "Slofaciad",
-    "Slofeniad",
-    "Un o Ynysoedd Solomon",
-    "Somaliad",
-    "Un o Dde Affrica",
-    "Un o Dde Georgia",
-    "Un o Dde Korea/Un o Dde Corea",
-    "Un o Ynysoedd Sandwich y De",
-    "Un o Dde Sudan",
-    "Sbaenwr/Sbaenes",
-    "Sri Lancad",
-    "Un o Saint Lucia",
-    "Un o St Lucia",
-    "Sudaniad/Swdaniad",
-    "Surinamead",
-    "Un o Svalbard a Jan Mayen",
-    "Swaziad/Un o Eswatini",
-    "Swediad",
-    "Swisiad",
-    "Syriad",
-    "Taiwaniad",
-    "Tajik",
-    "Tansanïad",
-    "Thai",
-    "Togoliad",
-    "Tokelauiad",
-    "Tongiad",
-    "Un o Trinidad a Tobago",
-    "Tunisiad/Tiwnisiad",
-    "Twrc/Tyrc",
-    "Cypriad Twrcaidd",
-    "Turkmenistaniad",
-    "Un o Ynysoedd Turks a Caicos",
-    "Tuvaluad",
-    "Ugandiad/Wgandiad",
-    "Ukrainiad/Wcraniad",
-    "Uruguayad/Wrwgwaiad",
-    "Uzbekiad/Wsbeciad",
-    "Venezueliad/Fenesweliad",
-    "Vietnamiad/Fietnamiad",
-    "Un o St Vincent a'r Grenadines",
-    "Un o Ynysoedd y Wyryf",
-    "Un o Wallis",
-    "Cymro/Cymraes",
-    "Yemeniad/Iemeniad",
-    "Zambiad/Sambiad",
-    "Zimbabwead/Simbabwead"
+    {
+        "cy": "Afghaniad/Affganiad"
+    },
+    {
+        "cy": "Affricanwr/Affricanes"
+    },
+    {
+        "cy": "Un o Ynysoedd Åland"
+    },
+    {
+        "cy": "Albaniad"
+    },
+    {
+        "cy": "Algeriad"
+    },
+    {
+        "cy": "Americanwr/Americanes"
+    },
+    {
+        "cy": "Un o Ynysoedd America"
+    },
+    {
+        "cy": "Samoad Americanaidd"
+    },
+    {
+        "cy": "Andoriad"
+    },
+    {
+        "cy": "Angoliad"
+    },
+    {
+        "cy": "Anguilliad"
+    },
+    {
+        "cy": "Antigwad"
+    },
+    {
+        "cy": "Archentwr/Archentwraig/Un o'r Ariannin"
+    },
+    {
+        "cy": "Armeniad"
+    },
+    {
+        "cy": "Arubiad/Arwbiad"
+    },
+    {
+        "cy": "Asiad"
+    },
+    {
+        "cy": "Awstraliad"
+    },
+    {
+        "cy": "Awstriad"
+    },
+    {
+        "cy": "Azerbaijaniad"
+    },
+    {
+        "cy": "Bahamiad"
+    },
+    {
+        "cy": "Bahrainiad"
+    },
+    {
+        "cy": "Bangladeshiad"
+    },
+    {
+        "cy": "Barbadiad"
+    },
+    {
+        "cy": "Barbudiad"
+    },
+    {
+        "cy": "Un o St Barthélemy"
+    },
+    {
+        "cy": "Botswaniad"
+    },
+    {
+        "cy": "Belarwsiad"
+    },
+    {
+        "cy": "Belgiad"
+    },
+    {
+        "cy": "Beliziad"
+    },
+    {
+        "cy": "Beniniad"
+    },
+    {
+        "cy": "Bermudiad"
+    },
+    {
+        "cy": "Bhutaniad"
+    },
+    {
+        "cy": "Un o Guineau-Bissau"
+    },
+    {
+        "cy": "Bolifiad"
+    },
+    {
+        "cy": "Un o Bonaire"
+    },
+    {
+        "cy": "Un o Unol Daleithiau America"
+    },
+    {
+        "cy": "Sabiad"
+    },
+    {
+        "cy": "Bosniad"
+    },
+    {
+        "cy": "Brasiliad"
+    },
+    {
+        "cy": "Prydeiniwr/Prydeinwraig"
+    },
+    {
+        "cy": "Un o Brunei"
+    },
+    {
+        "cy": "Bwlgariad"
+    },
+    {
+        "cy": "Un o Burkina Faso"
+    },
+    {
+        "cy": "Burmaniad/Byrmaniad"
+    },
+    {
+        "cy": "Burundiad/Bwrwndiad"
+    },
+    {
+        "cy": "Cambodiad"
+    },
+    {
+        "cy": "Camerooniad"
+    },
+    {
+        "cy": "Canadiad"
+    },
+    {
+        "cy": "Un o'r Ynysoedd Dedwydd"
+    },
+    {
+        "cy": "Un o Cabo Verde"
+    },
+    {
+        "cy": "Un o Ynysoedd Cayman"
+    },
+    {
+        "cy": "Un o Ganolbarth Affrica/Un o Weriniaeth Canol Affrica"
+    },
+    {
+        "cy": "Chadiad"
+    },
+    {
+        "cy": "Un o Ynysoedd Chagos"
+    },
+    {
+        "cy": "Un o Ynysoedd y Sianel"
+    },
+    {
+        "cy": "Chilead/Tsilead"
+    },
+    {
+        "cy": "Chinead/Tsieinead"
+    },
+    {
+        "cy": "Un o Ynys y Nadolig"
+    },
+    {
+        "cy": "Un o Ynysoedd Cocos"
+    },
+    {
+        "cy": "Colombiad"
+    },
+    {
+        "cy": "Comoriad"
+    },
+    {
+        "cy": "Congoliad (Gweriniaeth Ddemocrataidd Congo)"
+    },
+    {
+        "cy": "Congoliad (Gweriniaeth Congo)"
+    },
+    {
+        "cy": "Un o Ynysoedd Cook"
+    },
+    {
+        "cy": "Cernywiad/Un o Gernyw"
+    },
+    {
+        "cy": "Un o Costa Rica"
+    },
+    {
+        "cy": "Croatiad"
+    },
+    {
+        "cy": "Ciwbaniad"
+    },
+    {
+        "cy": "Curaçaoiad"
+    },
+    {
+        "cy": "Cypriad"
+    },
+    {
+        "cy": "Tsieciad"
+    },
+    {
+        "cy": "Daniad"
+    },
+    {
+        "cy": "Djiboutiad"
+    },
+    {
+        "cy": "Dominiciad (Dominica)"
+    },
+    {
+        "cy": "Dominiciad (Gweriniaeth Dominica)"
+    },
+    {
+        "cy": "Iseldirwr/Iseldirwraig"
+    },
+    {
+        "cy": "Un o Ddwyrain Timor"
+    },
+    {
+        "cy": "Ecuadoriad/Ecwadoriad"
+    },
+    {
+        "cy": "Eifftiad"
+    },
+    {
+        "cy": "Un o'r Emiraethau Arabaidd Unedig"
+    },
+    {
+        "cy": "Sais/Saesnes"
+    },
+    {
+        "cy": "Un o Guinea Gyhydeddol"
+    },
+    {
+        "cy": "Eritread"
+    },
+    {
+        "cy": "Estoniad"
+    },
+    {
+        "cy": "Ethiopiad"
+    },
+    {
+        "cy": "Ewropead"
+    },
+    {
+        "cy": "Un o Ynysoedd Falkland (Malvinas)"
+    },
+    {
+        "cy": "Ffaroad"
+    },
+    {
+        "cy": "Ffijïad"
+    },
+    {
+        "cy": "Ffilipina"
+    },
+    {
+        "cy": "Ffilipino"
+    },
+    {
+        "cy": "Ffiniad"
+    },
+    {
+        "cy": "Ffrancwr/Ffrances"
+    },
+    {
+        "cy": "Un o Polynesia Ffrengig"
+    },
+    {
+        "cy": "Futuniad"
+    },
+    {
+        "cy": "Gaboniad"
+    },
+    {
+        "cy": "Gambiad"
+    },
+    {
+        "cy": "Georgiad"
+    },
+    {
+        "cy": "Almaenwr/Almaenes"
+    },
+    {
+        "cy": "Ghanaiad"
+    },
+    {
+        "cy": "Gibraltariad"
+    },
+    {
+        "cy": "Groegwr/Groeges"
+    },
+    {
+        "cy": "Cypriad Groegaidd"
+    },
+    {
+        "cy": "Un o Kalaallit Nunaat (Greenland)"
+    },
+    {
+        "cy": "Grenadiad"
+    },
+    {
+        "cy": "Guadeloupiad"
+    },
+    {
+        "cy": "Guamiad/Gwamiad"
+    },
+    {
+        "cy": "Guatemaliad/Gwatemaliad"
+    },
+    {
+        "cy": "Gaianiad"
+    },
+    {
+        "cy": "Un o Guinea (Guinea)"
+    },
+    {
+        "cy": "Un o Guinea (Guinea-Bissau)"
+    },
+    {
+        "cy": "Gyuaniad"
+    },
+    {
+        "cy": "Haitïad"
+    },
+    {
+        "cy": "Honduriad"
+    },
+    {
+        "cy": "Un o Hong Kong"
+    },
+    {
+        "cy": "Chinead Hong Kong/Tsieinead Hong Kong"
+    },
+    {
+        "cy": "Hwngariad"
+    },
+    {
+        "cy": "Un o Wlad yr Iâ"
+    },
+    {
+        "cy": "Un o Kiribati"
+    },
+    {
+        "cy": "Indiad"
+    },
+    {
+        "cy": "Indonesiad"
+    },
+    {
+        "cy": "Iraniad"
+    },
+    {
+        "cy": "Iraciad"
+    },
+    {
+        "cy": "Gwyddel/Gwyddeles"
+    },
+    {
+        "cy": "Israeliad"
+    },
+    {
+        "cy": "Eidalwr/Eidales"
+    },
+    {
+        "cy": "Un o'r Traeth Ifori"
+    },
+    {
+        "cy": "Jamaicad"
+    },
+    {
+        "cy": "Japanead/Siapanead"
+    },
+    {
+        "cy": "Un o Wlad yr Iorddonen"
+    },
+    {
+        "cy": "Kazakhstaniad"
+    },
+    {
+        "cy": "Kenyad/Ceniad"
+    },
+    {
+        "cy": "Kernewek"
+    },
+    {
+        "cy": "Kernouak"
+    },
+    {
+        "cy": "Kernowyon"
+    },
+    {
+        "cy": "Kernowek"
+    },
+    {
+        "cy": "Un o St Kitts"
+    },
+    {
+        "cy": "Koread/Coread"
+    },
+    {
+        "cy": "Kosoviad/Cosofiad"
+    },
+    {
+        "cy": "Kurdiad/Cwrdiad"
+    },
+    {
+        "cy": "Kuwaitiad/Coweitiad"
+    },
+    {
+        "cy": "Kyrgyzstaniad"
+    },
+    {
+        "cy": "Laosiad"
+    },
+    {
+        "cy": "Latfiad"
+    },
+    {
+        "cy": "Lebaniad/Libaniad"
+    },
+    {
+        "cy": "Lesothiad"
+    },
+    {
+        "cy": "Liberiad"
+    },
+    {
+        "cy": "Libiad"
+    },
+    {
+        "cy": "Liechtensteiniad"
+    },
+    {
+        "cy": "Lithwaniad"
+    },
+    {
+        "cy": "Luxembourgiad"
+    },
+    {
+        "cy": "Macaoiad"
+    },
+    {
+        "cy": "Macedoniad"
+    },
+    {
+        "cy": "Madagasgiad"
+    },
+    {
+        "cy": "Malawiad"
+    },
+    {
+        "cy": "Malaysiad"
+    },
+    {
+        "cy": "Maldiviad"
+    },
+    {
+        "cy": "Maliad"
+    },
+    {
+        "cy": "Melitiad"
+    },
+    {
+        "cy": "Manawiad"
+    },
+    {
+        "cy": "Maori"
+    },
+    {
+        "cy": "Un o Ynysoedd Marshall"
+    },
+    {
+        "cy": "Martiniquiad"
+    },
+    {
+        "cy": "Mauritaniad/Mawritaniad"
+    },
+    {
+        "cy": "Mauritiad/Mawritiad"
+    },
+    {
+        "cy": "Mexicanwr/Mecsicanwr/Mexicanes/Mecsicanes"
+    },
+    {
+        "cy": "Micronesiad"
+    },
+    {
+        "cy": "Miqueloniad"
+    },
+    {
+        "cy": "Moldofiad"
+    },
+    {
+        "cy": "Monaciad"
+    },
+    {
+        "cy": "Mongoliad"
+    },
+    {
+        "cy": "Montenegroad"
+    },
+    {
+        "cy": "Montserratiad"
+    },
+    {
+        "cy": "Morociad"
+    },
+    {
+        "cy": "Botswaniad"
+    },
+    {
+        "cy": "Mozambiquiad"
+    },
+    {
+        "cy": "Un o Myanmar (Burma)"
+    },
+    {
+        "cy": "Namibiad"
+    },
+    {
+        "cy": "Nauruad/Nawrŵad"
+    },
+    {
+        "cy": "Nepali"
+    },
+    {
+        "cy": "Un o Nevis"
+    },
+    {
+        "cy": "Un o Caledonia Newydd"
+    },
+    {
+        "cy": "Un o Seland Newydd"
+    },
+    {
+        "cy": "Nicaragwad"
+    },
+    {
+        "cy": "Nigeriad (Nigeria)"
+    },
+    {
+        "cy": "Nigeriad (Niger)"
+    },
+    {
+        "cy": "Un o Niue"
+    },
+    {
+        "cy": "Un o Vanuatu"
+    },
+    {
+        "cy": "Un o Ynys Norfolk"
+    },
+    {
+        "cy": "Un o Ogledd Korea/Un o Ogledd Corea"
+    },
+    {
+        "cy": "Gwyddel/Gwyddeles o Ogledd Iwerddon"
+    },
+    {
+        "cy": "Un o Ynysoedd Gogleddol Mariana"
+    },
+    {
+        "cy": "Norwyad"
+    },
+    {
+        "cy": "Omaniad"
+    },
+    {
+        "cy": "Pacistaniad"
+    },
+    {
+        "cy": "Palauiad"
+    },
+    {
+        "cy": "Palesteiniad"
+    },
+    {
+        "cy": "Panamaniad"
+    },
+    {
+        "cy": "Un o Papua Guinea Newydd"
+    },
+    {
+        "cy": "Paraguayad"
+    },
+    {
+        "cy": "Periwiad"
+    },
+    {
+        "cy": "Un o Ynysoedd Pitcairn"
+    },
+    {
+        "cy": "Pwyliad"
+    },
+    {
+        "cy": "Portiwgaliad"
+    },
+    {
+        "cy": "Puerto Riciad"
+    },
+    {
+        "cy": "Qatariad"
+    },
+    {
+        "cy": "Quisqueyad"
+    },
+    {
+        "cy": "Un o Réunion"
+    },
+    {
+        "cy": "Romaniad/Rwmaniad"
+    },
+    {
+        "cy": "Rwsiad"
+    },
+    {
+        "cy": "Rwandiad"
+    },
+    {
+        "cy": "Sahrawi"
+    },
+    {
+        "cy": "Un o St Helena"
+    },
+    {
+        "cy": "Un o Sint Maarten"
+    },
+    {
+        "cy": "Un o St Vincent"
+    },
+    {
+        "cy": "Un o Saint Martin"
+    },
+    {
+        "cy": "Un o St Pierre"
+    },
+    {
+        "cy": "Un o El Salvador"
+    },
+    {
+        "cy": "Un o San Marino"
+    },
+    {
+        "cy": "Samoad"
+    },
+    {
+        "cy": "Un o São Tomé a Príncipe"
+    },
+    {
+        "cy": "Un o Saudi Arabia/Un o Sawdi-Arabia"
+    },
+    {
+        "cy": "Albanwr/Albanes"
+    },
+    {
+        "cy": "Senegaliad"
+    },
+    {
+        "cy": "Serbiad"
+    },
+    {
+        "cy": "Un o Seychelles"
+    },
+    {
+        "cy": "Un o Sierra Leone"
+    },
+    {
+        "cy": "Singaporead"
+    },
+    {
+        "cy": "Slofaciad"
+    },
+    {
+        "cy": "Slofeniad"
+    },
+    {
+        "cy": "Un o Ynysoedd Solomon"
+    },
+    {
+        "cy": "Somaliad"
+    },
+    {
+        "cy": "Un o Dde Affrica"
+    },
+    {
+        "cy": "Un o Dde Georgia"
+    },
+    {
+        "cy": "Un o Dde Korea/Un o Dde Corea"
+    },
+    {
+        "cy": "Un o Ynysoedd Sandwich y De"
+    },
+    {
+        "cy": "Un o Dde Sudan"
+    },
+    {
+        "cy": "Sbaenwr/Sbaenes"
+    },
+    {
+        "cy": "Sri Lancad"
+    },
+    {
+        "cy": "Un o Saint Lucia"
+    },
+    {
+        "cy": "Un o St Lucia"
+    },
+    {
+        "cy": "Sudaniad/Swdaniad"
+    },
+    {
+        "cy": "Surinamead"
+    },
+    {
+        "cy": "Un o Svalbard a Jan Mayen"
+    },
+    {
+        "cy": "Swaziad/Un o Eswatini"
+    },
+    {
+        "cy": "Swediad"
+    },
+    {
+        "cy": "Swisiad"
+    },
+    {
+        "cy": "Syriad"
+    },
+    {
+        "cy": "Taiwaniad"
+    },
+    {
+        "cy": "Tajik"
+    },
+    {
+        "cy": "Tansanïad"
+    },
+    {
+        "cy": "Thai"
+    },
+    {
+        "cy": "Togoliad"
+    },
+    {
+        "cy": "Tokelauiad"
+    },
+    {
+        "cy": "Tongiad"
+    },
+    {
+        "cy": "Un o Trinidad a Tobago"
+    },
+    {
+        "cy": "Tunisiad/Tiwnisiad"
+    },
+    {
+        "cy": "Twrc/Tyrc"
+    },
+    {
+        "cy": "Cypriad Twrcaidd"
+    },
+    {
+        "cy": "Turkmenistaniad"
+    },
+    {
+        "cy": "Un o Ynysoedd Turks a Caicos"
+    },
+    {
+        "cy": "Tuvaluad"
+    },
+    {
+        "cy": "Ugandiad/Wgandiad"
+    },
+    {
+        "cy": "Ukrainiad/Wcraniad"
+    },
+    {
+        "cy": "Uruguayad/Wrwgwaiad"
+    },
+    {
+        "cy": "Uzbekiad/Wsbeciad"
+    },
+    {
+        "cy": "Venezueliad/Fenesweliad"
+    },
+    {
+        "cy": "Vietnamiad/Fietnamiad"
+    },
+    {
+        "cy": "Un o St Vincent a'r Grenadines"
+    },
+    {
+        "cy": "Un o Ynysoedd y Wyryf"
+    },
+    {
+        "cy": "Un o Wallis"
+    },
+    {
+        "cy": "Cymro/Cymraes"
+    },
+    {
+        "cy": "Yemeniad/Iemeniad"
+    },
+    {
+        "cy": "Zambiad/Sambiad"
+    },
+    {
+        "cy": "Zimbabwead/Simbabwead"
+    }
 ]

@@ -1,201 +1,599 @@
 [
-    "Y Deyrnas Unedig",
-    "Iwerddon",
-    "Affganistan",
-    "Albania",
-    "Algeria",
-    "Andorra",
-    "Angola",
-    "Antigua a Barbuda",
-    "Ariannin",
-    "Armenia",
-    "Awstralia",
-    "Awstria",
-    "Azerbaijan",
-    "Bahrain",
-    "Bangladesh",
-    "Barbados",
-    "Belarws",
-    "Gwlad Belg",
-    "Belize",
-    "Benin",
-    "Bhutan",
-    "Bolifia",
-    "Bosnia a Herzegovina",
-    "Botswana",
-    "Brasil",
-    "Brunei",
-    "Bwlgaria",
-    "Burkina Faso",
-    "Burundi",
-    "Cambodia",
-    "Cameroon",
-    "Canada",
-    "Cabo Verde",
-    "Gweriniaeth Canol Affrica",
-    "Chad",
-    "Chile",
-    "Tsieina",
-    "Colombia",
-    "Comoros",
-    "Congo",
-    "Congo (Gweriniaeth Ddemocrataidd)",
-    "Costa Rica",
-    "Croatia",
-    "Cuba",
-    "Cyprus",
-    "Czechia",
-    "Denmarc",
-    "Djibouti",
-    "Dominica",
-    "Gweriniaeth Dominica",
-    "Dwyrain Timor",
-    "Ecuador",
-    "Yr Aifft",
-    "El Salvador",
-    "Guinea Gyhydeddol",
-    "Eritrea",
-    "Estonia",
-    "Eswatini",
-    "Ethiopia",
-    "Ffiji",
-    "Y Ffindir",
-    "Ffrainc",
-    "Gabon",
-    "Georgia",
-    "Yr Almaen",
-    "Ghana",
-    "Gwlad Groeg",
-    "Grenada",
-    "Guatemala",
-    "Guinea",
-    "Guinea-Bissau",
-    "Guyana",
-    "Haiti",
-    "Honduras",
-    "Hong Kong",
-    "Hwngari",
-    "Gwlad yr Iâ",
-    "India",
-    "Indonesia",
-    "Iran",
-    "Irac",
-    "Israel",
-    "Yr Eidal",
-    "Y Traeth Ifori",
-    "Jamaica",
-    "Japan",
-    "Gwlad yr Iorddonen",
-    "Kazakhstan",
-    "Kenya",
-    "Kiribati",
-    "Kosovo",
-    "Kuwait",
-    "Kyrgyzstan",
-    "Laos",
-    "Latfia",
-    "Libanus",
-    "Lesotho",
-    "Liberia",
-    "Libya",
-    "Liechtenstein",
-    "Lithwania",
-    "Lwcsembwrg",
-    "Macao",
-    "Madagasgar",
-    "Malawi",
-    "Malaysia",
-    "Maldives",
-    "Mali",
-    "Malta",
-    "Ynysoedd Marshall",
-    "Mauritania",
-    "Mauritius",
-    "Mecsico",
-    "Micronesia",
-    "Moldofa",
-    "Monaco",
-    "Mongolia",
-    "Montenegro",
-    "Moroco",
-    "Mozambique",
-    "Myanmar (Burma)",
-    "Namibia",
-    "Nauru",
-    "Nepal",
-    "Yr Iseldiroedd",
-    "Seland Newydd",
-    "Nicaragua",
-    "Niger",
-    "Nigeria",
-    "Gogledd Korea",
-    "Gogledd Macedonia",
-    "Norwy",
-    "Tiriogaethau Meddianedig Palesteina",
-    "Oman",
-    "Pacistan",
-    "Palau",
-    "Panama",
-    "Papua Guinea Newydd",
-    "Paraguay",
-    "Periw",
-    "Pilipinas (Ynysoedd Philippines)",
-    "Gwlad Pwyl",
-    "Portiwgal",
-    "Qatar",
-    "Rwmania",
-    "Rwsia",
-    "Rwanda",
-    "Samoa",
-    "San Marino",
-    "Sao Tome a Principe",
-    "Saudi Arabia",
-    "Senegal",
-    "Serbia",
-    "Seychelles",
-    "Sierra Leone",
-    "Singapore",
-    "Slofacia",
-    "Slofenia",
-    "Ynysoedd Solomon",
-    "Somalia",
-    "De Affrica",
-    "De Korea",
-    "De Sudan",
-    "Sbaen (gan gynnwys Ynysoedd Baleares)",
-    "Sri Lanka",
-    "St Kitts a Nevis",
-    "St Lucia",
-    "St Vincent a'r Grenadines",
-    "Sudan",
-    "Suriname",
-    "Sweden",
-    "Y Swistir",
-    "Syria",
-    "Taiwan",
-    "Tajikistan",
-    "Tanzania",
-    "Gwlad Thai",
-    "Y Bahamas",
-    "Y Gambia",
-    "Togo",
-    "Tonga",
-    "Trinidad a Tobago",
-    "Tunisia",
-    "Twrci",
-    "Turkmenistan",
-    "Tuvalu",
-    "Uganda",
-    "Ukrain",
-    "Yr Emiraethau Arabaidd Unedig",
-    "Unol Daleithiau America",
-    "Uruguay",
-    "Uzbekistan",
-    "Vanuatu",
-    "Dinas y Fatican",
-    "Venezuela",
-    "Fiet-nam",
-    "Yemen",
-    "Zambia",
-    "Zimbabwe"
+    {
+        "cy": "Y Deyrnas Unedig"
+    },
+    {
+        "cy": "Iwerddon"
+    },
+    {
+        "cy": "Affganistan"
+    },
+    {
+        "cy": "Albania"
+    },
+    {
+        "cy": "Algeria"
+    },
+    {
+        "cy": "Andorra"
+    },
+    {
+        "cy": "Angola"
+    },
+    {
+        "cy": "Antigua a Barbuda"
+    },
+    {
+        "cy": "Ariannin"
+    },
+    {
+        "cy": "Armenia"
+    },
+    {
+        "cy": "Awstralia"
+    },
+    {
+        "cy": "Awstria"
+    },
+    {
+        "cy": "Azerbaijan"
+    },
+    {
+        "cy": "Bahrain"
+    },
+    {
+        "cy": "Bangladesh"
+    },
+    {
+        "cy": "Barbados"
+    },
+    {
+        "cy": "Belarws"
+    },
+    {
+        "cy": "Gwlad Belg"
+    },
+    {
+        "cy": "Belize"
+    },
+    {
+        "cy": "Benin"
+    },
+    {
+        "cy": "Bhutan"
+    },
+    {
+        "cy": "Bolifia"
+    },
+    {
+        "cy": "Bosnia a Herzegovina"
+    },
+    {
+        "cy": "Botswana"
+    },
+    {
+        "cy": "Brasil"
+    },
+    {
+        "cy": "Brunei"
+    },
+    {
+        "cy": "Bwlgaria"
+    },
+    {
+        "cy": "Burkina Faso"
+    },
+    {
+        "cy": "Burundi"
+    },
+    {
+        "cy": "Cambodia"
+    },
+    {
+        "cy": "Cameroon"
+    },
+    {
+        "cy": "Canada"
+    },
+    {
+        "cy": "Cabo Verde"
+    },
+    {
+        "cy": "Gweriniaeth Canol Affrica"
+    },
+    {
+        "cy": "Chad"
+    },
+    {
+        "cy": "Chile"
+    },
+    {
+        "cy": "Tsieina"
+    },
+    {
+        "cy": "Colombia"
+    },
+    {
+        "cy": "Comoros"
+    },
+    {
+        "cy": "Congo"
+    },
+    {
+        "cy": "Congo (Gweriniaeth Ddemocrataidd)"
+    },
+    {
+        "cy": "Costa Rica"
+    },
+    {
+        "cy": "Croatia"
+    },
+    {
+        "cy": "Cuba"
+    },
+    {
+        "cy": "Cyprus"
+    },
+    {
+        "cy": "Czechia"
+    },
+    {
+        "cy": "Denmarc"
+    },
+    {
+        "cy": "Djibouti"
+    },
+    {
+        "cy": "Dominica"
+    },
+    {
+        "cy": "Gweriniaeth Dominica"
+    },
+    {
+        "cy": "Dwyrain Timor"
+    },
+    {
+        "cy": "Ecuador"
+    },
+    {
+        "cy": "Yr Aifft"
+    },
+    {
+        "cy": "El Salvador"
+    },
+    {
+        "cy": "Guinea Gyhydeddol"
+    },
+    {
+        "cy": "Eritrea"
+    },
+    {
+        "cy": "Estonia"
+    },
+    {
+        "cy": "Eswatini"
+    },
+    {
+        "cy": "Ethiopia"
+    },
+    {
+        "cy": "Ffiji"
+    },
+    {
+        "cy": "Y Ffindir"
+    },
+    {
+        "cy": "Ffrainc"
+    },
+    {
+        "cy": "Gabon"
+    },
+    {
+        "cy": "Georgia"
+    },
+    {
+        "cy": "Yr Almaen"
+    },
+    {
+        "cy": "Ghana"
+    },
+    {
+        "cy": "Gwlad Groeg"
+    },
+    {
+        "cy": "Grenada"
+    },
+    {
+        "cy": "Guatemala"
+    },
+    {
+        "cy": "Guinea"
+    },
+    {
+        "cy": "Guinea-Bissau"
+    },
+    {
+        "cy": "Guyana"
+    },
+    {
+        "cy": "Haiti"
+    },
+    {
+        "cy": "Honduras"
+    },
+    {
+        "cy": "Hong Kong"
+    },
+    {
+        "cy": "Hwngari"
+    },
+    {
+        "cy": "Gwlad yr Iâ"
+    },
+    {
+        "cy": "India"
+    },
+    {
+        "cy": "Indonesia"
+    },
+    {
+        "cy": "Iran"
+    },
+    {
+        "cy": "Irac"
+    },
+    {
+        "cy": "Israel"
+    },
+    {
+        "cy": "Yr Eidal"
+    },
+    {
+        "cy": "Y Traeth Ifori"
+    },
+    {
+        "cy": "Jamaica"
+    },
+    {
+        "cy": "Japan"
+    },
+    {
+        "cy": "Gwlad yr Iorddonen"
+    },
+    {
+        "cy": "Kazakhstan"
+    },
+    {
+        "cy": "Kenya"
+    },
+    {
+        "cy": "Kiribati"
+    },
+    {
+        "cy": "Kosovo"
+    },
+    {
+        "cy": "Kuwait"
+    },
+    {
+        "cy": "Kyrgyzstan"
+    },
+    {
+        "cy": "Laos"
+    },
+    {
+        "cy": "Latfia"
+    },
+    {
+        "cy": "Libanus"
+    },
+    {
+        "cy": "Lesotho"
+    },
+    {
+        "cy": "Liberia"
+    },
+    {
+        "cy": "Libya"
+    },
+    {
+        "cy": "Liechtenstein"
+    },
+    {
+        "cy": "Lithwania"
+    },
+    {
+        "cy": "Lwcsembwrg"
+    },
+    {
+        "cy": "Macao"
+    },
+    {
+        "cy": "Madagasgar"
+    },
+    {
+        "cy": "Malawi"
+    },
+    {
+        "cy": "Malaysia"
+    },
+    {
+        "cy": "Maldives"
+    },
+    {
+        "cy": "Mali"
+    },
+    {
+        "cy": "Malta"
+    },
+    {
+        "cy": "Ynysoedd Marshall"
+    },
+    {
+        "cy": "Mauritania"
+    },
+    {
+        "cy": "Mauritius"
+    },
+    {
+        "cy": "Mecsico"
+    },
+    {
+        "cy": "Micronesia"
+    },
+    {
+        "cy": "Moldofa"
+    },
+    {
+        "cy": "Monaco"
+    },
+    {
+        "cy": "Mongolia"
+    },
+    {
+        "cy": "Montenegro"
+    },
+    {
+        "cy": "Moroco"
+    },
+    {
+        "cy": "Mozambique"
+    },
+    {
+        "cy": "Myanmar (Burma)"
+    },
+    {
+        "cy": "Namibia"
+    },
+    {
+        "cy": "Nauru"
+    },
+    {
+        "cy": "Nepal"
+    },
+    {
+        "cy": "Yr Iseldiroedd"
+    },
+    {
+        "cy": "Seland Newydd"
+    },
+    {
+        "cy": "Nicaragua"
+    },
+    {
+        "cy": "Niger"
+    },
+    {
+        "cy": "Nigeria"
+    },
+    {
+        "cy": "Gogledd Korea"
+    },
+    {
+        "cy": "Gogledd Macedonia"
+    },
+    {
+        "cy": "Norwy"
+    },
+    {
+        "cy": "Tiriogaethau Meddianedig Palesteina"
+    },
+    {
+        "cy": "Oman"
+    },
+    {
+        "cy": "Pacistan"
+    },
+    {
+        "cy": "Palau"
+    },
+    {
+        "cy": "Panama"
+    },
+    {
+        "cy": "Papua Guinea Newydd"
+    },
+    {
+        "cy": "Paraguay"
+    },
+    {
+        "cy": "Periw"
+    },
+    {
+        "cy": "Pilipinas (Ynysoedd Philippines)"
+    },
+    {
+        "cy": "Gwlad Pwyl"
+    },
+    {
+        "cy": "Portiwgal"
+    },
+    {
+        "cy": "Qatar"
+    },
+    {
+        "cy": "Rwmania"
+    },
+    {
+        "cy": "Rwsia"
+    },
+    {
+        "cy": "Rwanda"
+    },
+    {
+        "cy": "Samoa"
+    },
+    {
+        "cy": "San Marino"
+    },
+    {
+        "cy": "Sao Tome a Principe"
+    },
+    {
+        "cy": "Saudi Arabia"
+    },
+    {
+        "cy": "Senegal"
+    },
+    {
+        "cy": "Serbia"
+    },
+    {
+        "cy": "Seychelles"
+    },
+    {
+        "cy": "Sierra Leone"
+    },
+    {
+        "cy": "Singapore"
+    },
+    {
+        "cy": "Slofacia"
+    },
+    {
+        "cy": "Slofenia"
+    },
+    {
+        "cy": "Ynysoedd Solomon"
+    },
+    {
+        "cy": "Somalia"
+    },
+    {
+        "cy": "De Affrica"
+    },
+    {
+        "cy": "De Korea"
+    },
+    {
+        "cy": "De Sudan"
+    },
+    {
+        "cy": "Sbaen (gan gynnwys Ynysoedd Baleares)"
+    },
+    {
+        "cy": "Sri Lanka"
+    },
+    {
+        "cy": "St Kitts a Nevis"
+    },
+    {
+        "cy": "St Lucia"
+    },
+    {
+        "cy": "St Vincent a'r Grenadines"
+    },
+    {
+        "cy": "Sudan"
+    },
+    {
+        "cy": "Suriname"
+    },
+    {
+        "cy": "Sweden"
+    },
+    {
+        "cy": "Y Swistir"
+    },
+    {
+        "cy": "Syria"
+    },
+    {
+        "cy": "Taiwan"
+    },
+    {
+        "cy": "Tajikistan"
+    },
+    {
+        "cy": "Tanzania"
+    },
+    {
+        "cy": "Gwlad Thai"
+    },
+    {
+        "cy": "Y Bahamas"
+    },
+    {
+        "cy": "Y Gambia"
+    },
+    {
+        "cy": "Togo"
+    },
+    {
+        "cy": "Tonga"
+    },
+    {
+        "cy": "Trinidad a Tobago"
+    },
+    {
+        "cy": "Tunisia"
+    },
+    {
+        "cy": "Twrci"
+    },
+    {
+        "cy": "Turkmenistan"
+    },
+    {
+        "cy": "Tuvalu"
+    },
+    {
+        "cy": "Uganda"
+    },
+    {
+        "cy": "Ukrain"
+    },
+    {
+        "cy": "Yr Emiraethau Arabaidd Unedig"
+    },
+    {
+        "cy": "Unol Daleithiau America"
+    },
+    {
+        "cy": "Uruguay"
+    },
+    {
+        "cy": "Uzbekistan"
+    },
+    {
+        "cy": "Vanuatu"
+    },
+    {
+        "cy": "Dinas y Fatican"
+    },
+    {
+        "cy": "Venezuela"
+    },
+    {
+        "cy": "Fiet-nam"
+    },
+    {
+        "cy": "Yemen"
+    },
+    {
+        "cy": "Zambia"
+    },
+    {
+        "cy": "Zimbabwe"
+    }
 ]
