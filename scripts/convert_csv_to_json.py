@@ -30,6 +30,12 @@ def generate_json_files():
                                                         language_directory_name,
                                                         output_file_name)
 
+                    if not os.path.exists(os.path.dirname(output_file_location)):
+                        try:
+                            os.makedirs(os.path.dirname(output_file_location))
+                        except OSError:
+                            raise
+
                     json_data = []
 
                     with open(source_file_location, newline='') as csv_file:
