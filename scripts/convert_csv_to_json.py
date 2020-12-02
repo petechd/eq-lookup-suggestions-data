@@ -7,14 +7,18 @@ import json
 
 def generate_json_files():
 
-    source_root = './source-data'
-    output_root = './data'
+    source_root = "./source-data"
+    output_root = "./data"
 
     for source_region_directory_name in os.listdir(source_root):
-        source_region_directory = os.path.join(source_root, source_region_directory_name)
+        source_region_directory = os.path.join(
+            source_root, source_region_directory_name
+        )
 
         for language_directory_name in os.listdir(source_region_directory):
-            source_directory = os.path.join(source_region_directory, language_directory_name)
+            source_directory = os.path.join(
+                source_region_directory, language_directory_name
+            )
 
             for source_file_name in os.listdir(source_directory):
 
@@ -22,22 +26,32 @@ def generate_json_files():
 
                 if os.path.isfile(source_file_location):
 
-                    source_file = open(source_file_location, 'r')
+                    source_file = open(source_file_location, "r")
 
-                    output_file_name = source_file_name.replace('.csv', '.json')
-                    output_file_location = os.path.join(output_root,
-                                                        source_region_directory_name,
-                                                        language_directory_name,
-                                                        output_file_name)
+                    output_file_name = source_file_name.replace(".csv", ".json")
+                    output_file_location = os.path.join(
+                        output_root,
+                        source_region_directory_name,
+                        language_directory_name,
+                        output_file_name,
+                    )
+
+                    if not os.path.exists(os.path.dirname(output_file_location)):
+                        try:
+                            os.makedirs(os.path.dirname(output_file_location))
+                        except OSError:
+                            raise
 
                     json_data = []
 
-                    with open(source_file_location, newline='') as csv_file:
-                        for row in csv.DictReader(csv_file, fieldnames=['term']):
-                            json_data.append({language_directory_name: row.get('term')})
+                    with open(source_file_location, newline="") as csv_file:
+                        for row in csv.DictReader(csv_file, fieldnames=["term"]):
+                            json_data.append({language_directory_name: row.get("term")})
                     try:
-                        with open(output_file_location, 'w', encoding='utf8') as f:
-                            json.dump(json_data, f, ensure_ascii=False, separators=(',', ':'))
+                        with open(output_file_location, "w", encoding="utf8") as f:
+                            json.dump(
+                                json_data, f, ensure_ascii=False, separators=(",", ":")
+                            )
                             f.write("\n")
                     except FileNotFoundError:
                         print(
