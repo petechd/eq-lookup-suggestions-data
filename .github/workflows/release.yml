@@ -1,0 +1,48 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - v*
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          echo "PYTHON_VERSION=$(cat .python-version)" >> $GITHUB_ENV
+      - uses: actions/setup-python@v2
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+      - name: Install pipenv --dev
+        run: pip install pipenv==2018.11.26
+      - run: |
+          echo "PYTHON_VERSION=$(python -c 'import platform; print(platform.python_version())')" >> $GITHUB_ENV
+      - name: Install virtual environment
+        run: pipenv install --dev
+      - name: Convert to json
+        run: pipenv run python -m scripts.convert_csv_to_json
+      - name: Archive json artifacts
+        uses: actions/upload-artifact@v1
+        with:
+          name: data
+          path: data
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Download data
+        uses: actions/download-artifact@v1
+        with:
+          name: data
+      - name: Zip artifacts
+        run: zip -r data.zip data
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: data.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
