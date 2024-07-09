@@ -9,10 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - run: |
           echo "PYTHON_VERSION=$(cat .python-version)" >> $GITHUB_ENV
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
       - name: Install pipenv --dev
@@ -24,7 +24,7 @@ jobs:
       - name: Convert to json
         run: pipenv run python -m scripts.convert_csv_to_json
       - name: Archive json artifacts
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v4
         with:
           name: data
           path: data
@@ -33,15 +33,15 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Download data
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v4
         with:
           name: data
       - name: Zip artifacts
         run: zip -r data.zip data
       - name: Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: data.zip
         env:
